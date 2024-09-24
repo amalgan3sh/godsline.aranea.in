@@ -3,26 +3,32 @@
     <div class="wrapper">
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
-                <div class="section-title">
-                    <h2><center>God’s Line: The Nest Eco City</center></h2><br>
-                    <h3><center><span style="color: #A9A9A9;">
-                        </span></center></h3>
+            <div class="section-title">
+                    <h2><center><B> Safeguarding Kerala’s Natural Ecosystems for Future Generations </B> </center></h2><br>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">"God’s Line: The Nest Eco City" is a groundbreaking sustainable urban development 
-                                project in Kerala, India. Spanning over 500 kilometers from Kasaragod to Thiruvananthapuram, this ambitious 
-                                project integrates a 20-meter-wide, 20-meter-deep canal that provides a continuous, sustainable water supply, 
-                                acting as both a water resource and a natural breakwater. Flanked by The Nest Eco City, a serene residential 
-                                community, the project seamlessly blends environmental stewardship with modern urban living.</p>
+                            <p style="text-align: justify;">At God’s Line: The Nest Eco City, environmental protection is a central pillar of
+                                 our sustainability efforts. We are committed to minimizing our environmental footprint by incorporating
+                                  eco-friendly materials and practices in every aspect of our project. From reforestation initiatives to
+                                   habitat conservation and pollution reduction, we aim to enhance and preserve the natural beauty and 
+                                   biodiversity of Kerala.
+                            </p><br><br>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
+                    <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">
+                            <h4><center>Environmental Awareness Programs</center></h4>
+                            <div style="margin-top:1em;">
+                                <p>
+                                We believe that educating residents about environmental responsibility is crucial for long-term sustainability. 
+                                Through workshops, seminars, and community initiatives, we will encourage eco-friendly practices such as
+                                 reducing plastic use, conserving water, and increasing awareness of Kerala’s local flora and fauna.
+
+
                                 </p>
-                                
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -31,58 +37,92 @@
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2><b> A Visionary Project for Kerala’s Future </h2>
+                    <h2><b> Preserving Biodiversity and Promoting Eco-Friendly Practices </b>  </h2>
                 </div>
-                <div class="row align-items-center">
+                <div class="row  row-reverse">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3>Future of Sustainable Urban Living</h3>
+                                <h3>Key Environmental Protection Initiatives</h3>
+                                <ul style="margin-top:1.2em;">
+                                <li> <strong><h6>Biodiversity Corridors: </h6></strong> <br> 
+                                    <p>
+                                    We have integrated biodiversity corridors into the design of the eco-city. These corridors provide a 
+                                    safe passage for local wildlife, linking natural habitats and promoting the movement of species. 
+                                    This helps maintain ecological balance and protects Kerala’s rich biodiversity.
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;">
+                                    <strong><h6>Reforestation and Green Spaces: </h6></strong> <br>
+                                    <p>
+                                    As part of our commitment to offset carbon emissions, we are planting thousands of native trees along the
+                                     canal and within the eco-city. These green zones serve as natural carbon sinks, improve air quality, 
+                                     and create a healthier living environment for residents.
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;"> 
+                                    <strong><h6>Eco-Friendly Materials and Construction Practices: </h6></strong> <br>
+                                    <p>
+                                    Our construction practices prioritize the use of sustainable materials like recycled concrete, 
+                                    locally sourced wood, and low-carbon-emission building technologies. All buildings are designed to 
+                                    reduce energy consumption, using passive solar heating, natural ventilation, and energy-efficient lighting.
+
+
+                                    </p>
+                                </li>
+                                
+                                
+                            </ul>
                             </div>
-                            <p>The Canal: The God’s Line canal is the centerpiece of the project. 
-                                It channels water from Kerala’s hill stations and dams, ensuring year-round water availability for 
-                                agriculture, industry, and residential use. Designed as a natural solution to coastal erosion, the 
-                                canal also supports tourism, real estate, and other economic activities. </p><br>
-                                <p>The Nest Eco City: A planned eco-city developed along the canal, The Nest offers resort-style villas, 
-                                    retirement homes, healthcare facilities, and recreational spaces, all designed with sustainability in mind. 
-                                    Residents enjoy access to lush green parks, waterfronts, and cutting-edge technology such as smart homes 
-                                    powered by renewable energy.</p>
                         </div>
+                       
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
-                            <img src="assets/images/Image3.jpeg">
+                            <img src="assets/images/ENVIRONMENTAL_PROTECTION.jpg">
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center row-reverse">
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-left">
-                            <div class="section-title">
-                                <h3> <b> Key Features of the Project</b> </h3>
-                            </div>
-                            <!-- <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p> -->
-                                    <ul>
-                                        <li><b>500 km Canal: </b>A mineral water canal that provides a sustainable water supply and coastal protection.</li>
-                                        <li><b>Eco-City: </b>Residential development offering luxury villas, green spaces, and modern healthcare facilities.</li>
-                                        <li> <b>Smart Infrastructure: </b>Integration of AI, IoT, and blockchain technologies for resource management, infrastructure monitoring, and community engagement.</li>
-                                        <li><b>Sustainability: </b>A project built on the principles of environmental conservation, renewable energy use, and eco-friendly construction.</li>
-                                    </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-right">
-                            <img src="assets/images/GODSLINE4.jpg">
-                        </div>
-                    </div>
+                <div class="row">
+                
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Waste Management and Recycling: </h6></strong> <br>
+                                   <p>
+                                   We have implemented a comprehensive waste management system to reduce landfill waste. 
+                                   All residential units and commercial spaces will have access to recycling facilities, composting options, 
+                                   and a centralized waste processing plant that focuses on waste-to-energy conversion.
+
+
+                                   </p>
+                                </li>
+
+                                
+                
                 </div>
+
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Air and Water Quality Monitoring: </h6></strong> <br>
+                                   <p>
+                                   IoT sensors will be placed throughout the eco-city and canal to continuously monitor air and water 
+                                   quality, ensuring a clean and safe environment for both residents and the local ecosystem. Data from 
+                                   these sensors will be analyzed to identify areas of improvement, such as pollution hotspots or sources
+                                    of contamination.
+
+
+                                   </p>
+                                </li>
+                </div>
+                
+                
+                   
+                </div>
+               
             </div>
+            
         </section>
-        <section class="aboutpage-btm-sec about-us-section padding-bottom">
+        <!-- <section class="aboutpage-btm-sec about-us-section padding-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-4">
@@ -138,7 +178,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </div>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">

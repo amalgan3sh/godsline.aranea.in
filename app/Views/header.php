@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="author" content="modern houses - Workdo.">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
-    <title>TEAK FOREST - The Nest Ecocity</title>
+    <title>GODSLINE - The Nest Ecocity</title>
     <meta name="description" content="modern houses - Workdo.">
     <meta name="keywords" content="modern houses - Workdo.">
     <link rel="shortcut icon" href="assets/images/favicon.png">
@@ -41,13 +41,67 @@
                             <div class="menu-dropdown">
                                 <ul>
                                     <li><a href="overview">Overview</a></li>
-                                    <li><a href="our_inspiration">Our Inspiration</a></li>
-                                    <li><a href="vision_and_mission">Vision and Mission</a></li>
+                                    <li><a href="vision_and_mission">Vision & Mission</a></li>
+                                    <li><a href="strategic_importance">Strategic Importance</a></li>
                                     <!-- <li><a href="about.html#team">Our Team</a></li> -->
                                 </ul>
                             </div>
                         </li>
                         <li class="menu-lnk has-item">
+                            <a href="features.html">Features</a>
+                            <div class="menu-dropdown">
+                                <ul>
+                                    <li><a href="canal_system">The Canal System</a></li>
+                                    <li><a href="nest_eco_city">The Nest Eco City</a></li>
+                                    <li><a href="technology_innovation">Technology & Innovation</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="menu-lnk has-item">
+                            <a href="">Sustainability</a>
+                            <div class="menu-dropdown">
+                                <ul>
+                                    <li><a href="renewable_energy">Renewable Energy</a></li>
+                                    <li><a href="water_resource_management">Water Resource Management</a></li>
+                                    <li><a href="environmental_protection">Environmental Protection</a></li>
+                                    <!-- <li><a href="about.html#team">Our Team</a></li> -->
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="menu-lnk has-item">
+                            <a href="">Investment</a>
+                            <div class="menu-dropdown">
+                                <ul>
+                                    <li><a href="why_invest">Why Invest?</a></li>
+                                    <li><a href="financial_projections">Financial Projections</a></li>
+                                    <li><a href="investor_benefits">Investor Benefits</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="menu-lnk has-item">
+                            <a href="">Social Impact</a>
+                            <div class="menu-dropdown">
+                                <ul>
+                                    <li><a href="job_creation">Job Creation</a></li>
+                                    <li><a href="community_development">Community Development</a></li>
+                                    <li><a href="economic_growth">Economic Growth</a></li>
+                                    <!-- <li><a href="about.html#team">Our Team</a></li> -->
+                                </ul>
+                            </div>
+                        </li>
+                        <li class="menu-lnk has-item">
+                            <a href="">Collaborations</a>
+                            <div class="menu-dropdown">
+                                <ul>
+                                    <li><a href="strategic_partners">Strategic Partners</a></li>
+                                    <li><a href="public_private_partnerships">Public-Private Partnerships (PPP)</a></li>
+                                    <li><a href="international_collaboration">International Collaboration</a></li>
+                                    <!-- <li><a href="about.html#team">Our Team</a></li> -->
+                                </ul>
+                            </div>
+                        </li>
+                        
+                        <!-- <li class="menu-lnk has-item">
                             <a href="#">Our Projects</a>
                             <div class="mega-menu menu-dropdown">
                                 <div class="mega-menu-container container">
@@ -90,8 +144,8 @@
                                     </ul>
                                 </div>
                             </div>
-                        </li>
-                        <li class="menu-lnk has-item">
+                        </li> -->
+                        <!-- <li class="menu-lnk has-item">
                             <a href="#">Our Services</a>
                             <div class="menu-dropdown">
                                 <ul>
@@ -106,7 +160,7 @@
                                     <li><a href="services.html">Spa, Gym & Club House & Pool</a></li>
                                 </ul>
                             </div>
-                        </li>
+                        </li> -->
                         
                         <li class="menu-lnk">
                             <a href="contact-us.html">Contact</a>

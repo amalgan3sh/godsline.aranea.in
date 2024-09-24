@@ -9,24 +9,18 @@
                 <div class="row">
                     <div class="col-md-6 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">Our primary objective is to drive the success of this initiative, along with others, by 
-                                seamlessly integrating the Aranea Platform into our broader ecosystem. By doing so, we seek to create a unified, dynamic 
-                                environment that enhances the potential for growth and innovation across various sectors. The Aranea Platform, with its 
-                                advanced capabilities and robust infrastructure, will serve as the backbone of this integration, enabling smoother 
-                                collaboration and more efficient operations. This strategic move is designed to not only streamline processes but 
-                                also to facilitate the sharing of resources and knowledge, ultimately leading to a more cohesive and synergistic ecosystem. 
-                                By leveraging the strengths of the Aranea Platform, we are positioning ourselves at the forefront of technological advancement, 
-                                ensuring that our initiatives are supported by a solid and adaptable foundation. </p>
+                            <p style="text-align: justify;">At God’s Line: The Nest Eco City, our vision is to create a sustainable urban 
+                                development that sets a global example for integrating advanced technology with eco-friendly infrastructure. 
+                                We aim to lead the way in sustainable growth, resilience, and community well-being, providing a new model for 
+                                cities of the future. </p>
                         </div>
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">At the heart of this integration is our commitment to fostering growth within our ecosystem. 
-                                We recognize that innovation and progress often come from collaboration, which is why we are dedicated to building a space 
-                                where different entities can work together effectively. The Aranea Platform will serve as the glue that binds these entities 
-                                together, ensuring that each has the tools and resources necessary to succeed. This approach will not only streamline 
-                                operations but also open up new avenues for innovation and development, driving overall growth within our ecosystem.
-                                </p>
+                            <p style="text-align: justify;">Our mission is to blend innovation with sustainability, creating a future where 
+                                economic prosperity and environmental protection go hand in hand. Through smart water management, eco-friendly
+                                 construction, and inclusive community planning, we aim to create an urban environment that thrives today and 
+                                 is resilient for future generations.</p>
                         </div>
                     </div>
                 </div>
@@ -41,23 +35,25 @@
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3><b>Building a </b> Community - <b>Building a </b> Happy Future.</h3>
+                                <h3><b>Creating a Sustainable, Resilient, and Inclusive Future.</h3>
                             </div>
-                            <p>We believe that collaboration is key to achieving our vision, which is why we are focusing on creating strong partnerships 
-                                among corporations, ventures, and strategic partners. By bringing these diverse groups together under the Aranea Platform, 
-                                we are creating a fertile ground for cooperation and shared success. Corporations will benefit from increased connectivity 
-                                and streamlined processes, while ventures will find a supportive environment where they can innovate and scale. Strategic 
-                                partners, in turn, will gain access to a network of collaborators who share their goals and values, making it easier to work 
-                                on joint projects and achieve common objectives.</p><br>
+                            <p>
+                                <ul>
+                                    <li><b>Global Leader in Sustainable Development:</b>We strive to be at the forefront of sustainable urban 
+                                    transformation, offering scalable solutions to the challenges posed by climate change, water scarcity, 
+                                    and urbanization.
+                                    </li>
+                                    <li><b>Resilient Communities for Future Generations:</b>Our vision includes building communities that are 
+                                    not only eco-friendly but also resilient to the changing environmental and economic conditions of the 
+                                    future.</li>
+                                    <li><b>Inclusive Growth and Well-Being:</b>We envision a future where urban development is inclusive, 
+                                    ensuring that all members of society benefit from improved infrastructure, healthcare, education, and employment opportunities.</li>
+                                </ul>
+                            </p>
 
-                                <p>In the long run, our aim is to build a thriving, collaborative ecosystem that benefits all involved. The integration of the 
-                                    Aranea Platform is just the beginning; it is a step toward creating an environment where innovation can flourish and where 
-                                    all participants can achieve their full potential. We are committed to this vision and believe that by working together, 
-                                    we can create something truly transformative. The future we envision is one where the Aranea Platform acts as a catalyst 
-                                    for sustainable growth, driving success not only for individual entities but for the ecosystem as a whole.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
+                    <div class="">
                         <div class="abt-shp-column-right">
                             <img src="assets/images/abt-1.jpg">
                         </div>
@@ -67,23 +63,20 @@
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3> <b>The idea of</b> Socializing </h3>
+                                <h3> Blending Innovation with Sustainability for a Prosperous Tomorrow </h3>
                             </div>
-                            <p> In addition to fostering collaboration and innovation within our ecosystem, we also recognize the profound importance of 
-                                socializing and building meaningful connections for a happy and fulfilling future. By integrating the Aranea Platform, 
-                                we are not only creating opportunities for business growth but also for personal connections that can enhance the well-being 
-                                of all involved. We believe that a strong, interconnected community is the foundation of both professional success and personal 
-                                happiness. Through the Aranea Platform, individuals and organizations alike will have the opportunity to engage with a diverse 
-                                network of people, share experiences, and build lasting relationships. These connections will not only drive collaborative 
-                                success but also contribute to a supportive and nurturing environment where everyone can thrive. By prioritizing social 
-                                interaction and meaningful connections, we are ensuring that our ecosystem is not just a place for work, but a community where 
-                                people can find fulfillment and joy in their professional and personal lives, ultimately leading to a happier future for all.
+                            <p> 
+                            At the core of our mission is the creation of a reliable, year-round water supply through the God’s Line canal. 
+                            By capturing and managing water from Kerala’s hill stations, our canal system ensures continuous access to water 
+                            for residents, agriculture, and industry, while also protecting the coast from erosion and flooding.We aim to 
+                            develop a green, eco-friendly urban space that harmonizes with nature. Our mission goes beyond 
+                            infrastructure—it’s about fostering regional economic growth and creating opportunities for communities.
                             </p><br>
                         </div>
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
-                            <img src="assets/images/abt-2.jpg">
+                            <img src="assets/images/Image4.jpeg">
                         </div>
                     </div>
                 </div>

@@ -1,0 +1,13 @@
+CRITICAL - 2024-09-21 17:17:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "financial_projects.php"
+[Method: GET, Route: financial_projects]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render()
+ 3 APPPATH\Controllers\Home.php(184): view()
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->FinancialProjects()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+10 SYSTEMPATH\rewrite.php(50): require_once('C:\\xampp\\htdocs\\godsline.aranea.in\\index.php')

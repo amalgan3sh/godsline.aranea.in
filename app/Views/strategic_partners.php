@@ -3,86 +3,121 @@
     <div class="wrapper">
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
-                <div class="section-title">
-                    <h2><center>God’s Line: The Nest Eco City</center></h2><br>
-                    <h3><center><span style="color: #A9A9A9;">
-                        </span></center></h3>
+            <div class="section-title">
+                    <h2><center><B> Collaborating with Industry Leaders for Long-Term Success</B> </center></h2><br>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">"God’s Line: The Nest Eco City" is a groundbreaking sustainable urban development 
-                                project in Kerala, India. Spanning over 500 kilometers from Kasaragod to Thiruvananthapuram, this ambitious 
-                                project integrates a 20-meter-wide, 20-meter-deep canal that provides a continuous, sustainable water supply, 
-                                acting as both a water resource and a natural breakwater. Flanked by The Nest Eco City, a serene residential 
-                                community, the project seamlessly blends environmental stewardship with modern urban living.</p>
+                            <p style="text-align: justify;">The success of God’s Line: The Nest Eco City relies on strategic partnerships with 
+                                leaders in the fields of infrastructure development, sustainability, technology, and urban planning. 
+                                These collaborations ensure that the project benefits from the latest innovations, industry expertise, and 
+                                shared resources, making it a pioneering model for eco-friendly urban development.
+                            </p><br><br>
+                            <p>
+                            Our strategic partners bring experience, expertise, and financial support to various aspects of the project, 
+                            from the design and construction of the canal system to the integration of smart technologies, environmental 
+                            conservation, and community development.
+
+
+                            </p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
-                        <div class="about-us-content">
-                            <p style="text-align: justify;">
-                                </p>
-                                
-                        </div>
-                    </div>
+                   
                 </div>
             </div>
         </section>
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2><b> A Visionary Project for Kerala’s Future </h2>
+                    <h2><b> Building Strong Alliances Across Multiple Sectors </b>  </h2>
                 </div>
-                <div class="row align-items-center">
+                <div class="row  row-reverse">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3>Future of Sustainable Urban Living</h3>
+                                <h3>Strategic Partners Include</h3>
+                                <ul style="margin-top:1.2em;">
+                                <li> <strong><h6>Infrastructure Development Firms: </h6></strong> <br> 
+                                    <p>
+                                    We are working with <strong>leading construction companies</strong> and <strong>civil engineering 
+                                        firms</strong> that have a proven track record of delivering large-scale infrastructure projects.
+                                         Their expertise ensures that the canal system, residential areas, and commercial zones are built to 
+                                         the highest standards of durability and sustainability.
+
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;">
+                                    <strong><h6>Technology Companies: </h6></strong> <br>
+                                    <p>
+                                    Our technology partners specialize in <strong>AI</strong>, <strong>IoT</strong>, and <strong>blockchain solutions</strong> for smart cities. 
+                                    These partnerships allow us to integrate advanced technology into the city's infrastructure, making it 
+                                    efficient, secure, and adaptive to future technological advancements. Tech giants are collaborating with us
+                                     to develop a digital twin of the city, which will optimize the management of resources such as water, 
+                                     energy, and waste.
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;"> 
+                                    <strong><h6>Environmental Agencies and Conservation Groups: </h6></strong> <br>
+                                   <p>
+                                   We have partnered with <strong>environmental conservation organizations</strong> to ensure that every aspect of the project
+                                    is eco-friendly. These organizations are helping us with reforestation efforts, biodiversity protection, 
+                                    and the sustainable design of green spaces within the eco-city. Their input is vital for ensuring that the
+                                     project aligns with global sustainability goals.
+
+                                   </p>
+                                </li>
+                                
+                                
+                            </ul>
                             </div>
-                            <p>The Canal: The God’s Line canal is the centerpiece of the project. 
-                                It channels water from Kerala’s hill stations and dams, ensuring year-round water availability for 
-                                agriculture, industry, and residential use. Designed as a natural solution to coastal erosion, the 
-                                canal also supports tourism, real estate, and other economic activities. </p><br>
-                                <p>The Nest Eco City: A planned eco-city developed along the canal, The Nest offers resort-style villas, 
-                                    retirement homes, healthcare facilities, and recreational spaces, all designed with sustainability in mind. 
-                                    Residents enjoy access to lush green parks, waterfronts, and cutting-edge technology such as smart homes 
-                                    powered by renewable energy.</p>
                         </div>
+                       
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
-                            <img src="assets/images/Image3.jpeg">
+                            <img src="assets/images/HOUSE_1.jpg">
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center row-reverse">
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-left">
-                            <div class="section-title">
-                                <h3> <b> Key Features of the Project</b> </h3>
-                            </div>
-                            <!-- <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p> -->
-                                    <ul>
-                                        <li><b>500 km Canal: </b>A mineral water canal that provides a sustainable water supply and coastal protection.</li>
-                                        <li><b>Eco-City: </b>Residential development offering luxury villas, green spaces, and modern healthcare facilities.</li>
-                                        <li> <b>Smart Infrastructure: </b>Integration of AI, IoT, and blockchain technologies for resource management, infrastructure monitoring, and community engagement.</li>
-                                        <li><b>Sustainability: </b>A project built on the principles of environmental conservation, renewable energy use, and eco-friendly construction.</li>
-                                    </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-right">
-                            <img src="assets/images/GODSLINE4.jpg">
-                        </div>
-                    </div>
+                <div class="row">
+                
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Local and Regional Businesses: </h6></strong> <br>
+                                   <p>
+                                   By collaborating with <strong>local businesses</strong>, we ensure that the economic benefits of the project are distributed
+                                    to the wider community. Local suppliers, contractors, and service providers are actively involved in the 
+                                    construction and development phases, helping to boost regional growth and employment.
+
+                                   </p>
+                                </li>
+
+                                
+                
                 </div>
+
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Benefits of Strategic Partnerships: </h6></strong> <br>
+                                  <ul>
+                                    <li>- Innovation and Expertise</li>
+                                    <li>- Financial Strength</li>
+                                    <li>- Shared Vision</li>
+                                  </ul>
+                                </li>
+                </div>
+                
+                
+                   
+                </div>
+               
             </div>
+            
         </section>
-        <section class="aboutpage-btm-sec about-us-section padding-bottom">
+        <!-- <section class="aboutpage-btm-sec about-us-section padding-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-4">
@@ -138,7 +173,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </div>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">

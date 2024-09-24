@@ -3,26 +3,32 @@
     <div class="wrapper">
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
-                <div class="section-title">
-                    <h2><center>God’s Line: The Nest Eco City</center></h2><br>
-                    <h3><center><span style="color: #A9A9A9;">
-                        </span></center></h3>
+            <div class="section-title">
+                    <h2><center><B> Building Thriving Communities Through Infrastructure and Services</B> </center></h2><br>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">"God’s Line: The Nest Eco City" is a groundbreaking sustainable urban development 
-                                project in Kerala, India. Spanning over 500 kilometers from Kasaragod to Thiruvananthapuram, this ambitious 
-                                project integrates a 20-meter-wide, 20-meter-deep canal that provides a continuous, sustainable water supply, 
-                                acting as both a water resource and a natural breakwater. Flanked by The Nest Eco City, a serene residential 
-                                community, the project seamlessly blends environmental stewardship with modern urban living.</p>
+                            <p style="text-align: justify;">God’s Line: The Nest Eco City is more than just an infrastructure project—it’s a 
+                                transformative initiative aimed at improving the quality of life for residents and neighboring communities. 
+                                By enhancing healthcare, education, housing, and public services, the eco-city will serve as a model for 
+                                sustainable community development in Kerala.
+                            </p><br><br>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
+                    <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">
+                            <h4><center>Focus on Health and Well-Being</center></h4>
+                            <div style="margin-top:1em;">
+                                <p>
+                                The Nest Eco City is designed with a strong emphasis on <strong>well-being</strong>. Green spaces, cycling paths, and 
+                                pedestrian-friendly streets encourage residents to adopt active, healthy lifestyles. Community gardens and
+                                 wellness centers provide spaces for relaxation and social interaction, fostering both physical and mental
+                                  health.
+
+
                                 </p>
-                                
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -31,58 +37,94 @@
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2><b> A Visionary Project for Kerala’s Future </h2>
+                    <h2><b> Improving Quality of Life for Residents and Local Communities </b>  </h2>
                 </div>
-                <div class="row align-items-center">
+                <div class="row  row-reverse">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3>Future of Sustainable Urban Living</h3>
+                                <h3>Areas of Community Development</h3>
+                                <ul style="margin-top:1.2em;">
+                                <li> <strong><h6>Affordable Housing: </h6></strong> <br> 
+                                    <p>
+                                    In addition to luxury villas and resort homes, The Nest Eco City will include <strong>affordable housing units</strong> 
+                                    to ensure that a diverse range of residents can live in the eco-city. These homes are designed with the 
+                                    same commitment to sustainability, ensuring that all residents can enjoy energy-efficient, environmentally 
+                                    friendly living spaces.
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;">
+                                    <strong><h6>Healthcare Facilities: </h6></strong> <br>
+                                    <p>
+                                    The eco-city will include <strong>world-class healthcare centers</strong>, clinics, and wellness facilities,
+                                     providing access to high-quality medical care for both residents and neighboring communities. This will 
+                                     reduce the burden on regional healthcare systems and improve the overall health and well-being of the
+                                      population.
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;"> 
+                                    <strong><h6>Educational Institutions: </h6></strong> <br>
+                                   <p>
+                                   The project includes plans for <strong>schools</strong>, <strong>colleges</strong>, and <strong>vocational 
+                                    training centers</strong> that will provide quality 
+                                   education to the city’s residents and nearby communities. These institutions will focus on modern, 
+                                   eco-conscious curricula, preparing the next generation of leaders, innovators, and skilled professionals.
+
+
+                                   </p>
+                                </li>
+                                
+                                
+                            </ul>
                             </div>
-                            <p>The Canal: The God’s Line canal is the centerpiece of the project. 
-                                It channels water from Kerala’s hill stations and dams, ensuring year-round water availability for 
-                                agriculture, industry, and residential use. Designed as a natural solution to coastal erosion, the 
-                                canal also supports tourism, real estate, and other economic activities. </p><br>
-                                <p>The Nest Eco City: A planned eco-city developed along the canal, The Nest offers resort-style villas, 
-                                    retirement homes, healthcare facilities, and recreational spaces, all designed with sustainability in mind. 
-                                    Residents enjoy access to lush green parks, waterfronts, and cutting-edge technology such as smart homes 
-                                    powered by renewable energy.</p>
                         </div>
+                       
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
-                            <img src="assets/images/Image3.jpeg">
+                            <img src="assets/images/GODSLINE2.jpeg">
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center row-reverse">
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-left">
-                            <div class="section-title">
-                                <h3> <b> Key Features of the Project</b> </h3>
-                            </div>
-                            <!-- <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p> -->
-                                    <ul>
-                                        <li><b>500 km Canal: </b>A mineral water canal that provides a sustainable water supply and coastal protection.</li>
-                                        <li><b>Eco-City: </b>Residential development offering luxury villas, green spaces, and modern healthcare facilities.</li>
-                                        <li> <b>Smart Infrastructure: </b>Integration of AI, IoT, and blockchain technologies for resource management, infrastructure monitoring, and community engagement.</li>
-                                        <li><b>Sustainability: </b>A project built on the principles of environmental conservation, renewable energy use, and eco-friendly construction.</li>
-                                    </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-right">
-                            <img src="assets/images/GODSLINE4.jpg">
-                        </div>
-                    </div>
+                <div class="row">
+                
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Public Services and Amenities: </h6></strong> <br>
+                                   <p>
+                                   Residents will have access to a wide range of public services and amenities, including <strong>parks</strong>, 
+                                   <strong>community centers</strong>, <strong>libraries</strong>, and <strong>public transportation</strong>. These facilities will enhance the quality of life
+                                    and provide spaces for recreation, learning, and social interaction.
+                                   </p>
+                                </li>
+
+                                
+                
                 </div>
+
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Social and Cultural Programs: </h6></strong> <br>
+                                   <p>
+                                   To foster a sense of community and cultural enrichment, God’s Line will support various <strong>social and 
+                                   cultural programs</strong>, such as festivals, exhibitions, art installations, and community-driven initiatives. 
+                                   These programs will celebrate Kerala’s rich heritage while promoting a sense of belonging and engagement
+                                    among residents.
+
+
+                                   </p>
+                                </li>
+                </div>
+                
+                
+                   
+                </div>
+               
             </div>
+            
         </section>
-        <section class="aboutpage-btm-sec about-us-section padding-bottom">
+        <!-- <section class="aboutpage-btm-sec about-us-section padding-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-4">
@@ -138,7 +180,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </div>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">

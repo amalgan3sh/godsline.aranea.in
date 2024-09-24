@@ -3,26 +3,33 @@
     <div class="wrapper">
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
-                <div class="section-title">
-                    <h2><center>God’s Line: The Nest Eco City</center></h2><br>
-                    <h3><center><span style="color: #A9A9A9;">
-                        </span></center></h3>
+            <div class="section-title">
+                    <h2><center><B> Building a Strong Workforce Across Multiple Sectors</B> </center></h2><br>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">"God’s Line: The Nest Eco City" is a groundbreaking sustainable urban development 
-                                project in Kerala, India. Spanning over 500 kilometers from Kasaragod to Thiruvananthapuram, this ambitious 
-                                project integrates a 20-meter-wide, 20-meter-deep canal that provides a continuous, sustainable water supply, 
-                                acting as both a water resource and a natural breakwater. Flanked by The Nest Eco City, a serene residential 
-                                community, the project seamlessly blends environmental stewardship with modern urban living.</p>
+                            <p style="text-align: justify;">One of the most significant impacts of God’s Line: The Nest Eco City is its 
+                                potential to create thousands of jobs across various sectors, driving local and regional economic growth.
+                                 From the initial construction phase to long-term operations, the project will generate employment opportunities
+                                  that empower individuals, uplift communities, and enhance the overall economy.
+                            </p><br><br>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
+                    <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">
+                            <h4><center>Training and Upskilling Programs</center></h4>
+                            <div style="margin-top:1em;">
+                                <p>
+                                In addition to creating jobs, God’s Line is committed to providing <strong>training and upskilling opportunities</strong> for 
+                                local workers. Through partnerships with vocational schools, universities, and government programs, the project
+                                 will offer specialized training in areas such as construction, smart city technologies, water management, 
+                                 and eco-friendly practices.
+
+
+
                                 </p>
-                                
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -31,58 +38,94 @@
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2><b> A Visionary Project for Kerala’s Future </h2>
+                    <h2><b> Creating Thousands of Jobs for a Prosperous Future </b>  </h2>
                 </div>
-                <div class="row align-items-center">
+                <div class="row  row-reverse">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3>Future of Sustainable Urban Living</h3>
+                                <h3>Areas of Job Creation</h3>
+                                <ul style="margin-top:1.2em;">
+                                <li> <strong><h6>Construction and Infrastructure Development: </h6></strong> <br> 
+                                    <p>
+                                    The construction phase alone will generate a large number of jobs in civil engineering, construction
+                                     management, skilled labor, and other technical roles. Local communities will benefit from a wide range of
+                                      positions, from construction workers and project managers to contractors and architects.
+
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;">
+                                    <strong><h6>Technology and Engineering Jobs: </h6></strong> <br>
+                                   <p>
+                                   As a smart city project integrating AI, IoT, and blockchain, God’s Line will create numerous opportunities
+                                    in the fields of <strong>information technology, data analysis, engineering</strong>, and <strong>smart infrastructure development.
+                                    Engineers</strong>, software developers, and technicians will play a key role in building and maintaining the city’s
+                                      advanced technological infrastructure.
+
+
+                                   </p>
+                                </li>
+                                <li style="margin-top:1.2em;"> 
+                                    <strong><h6>Healthcare and Wellness: </h6></strong> <br>
+                                   <p>
+                                   With the inclusion of state-of-the-art <strong>healthcare facilities</strong> within The Nest Eco City, there will be a 
+                                   demand for healthcare professionals, including doctors, nurses, therapists, and support staff. Additionally,
+                                    wellness centers and fitness facilities will require trainers, nutritionists, and wellness coaches.
+
+
+                                   </p>
+                                </li>
+                                
+                                
+                            </ul>
                             </div>
-                            <p>The Canal: The God’s Line canal is the centerpiece of the project. 
-                                It channels water from Kerala’s hill stations and dams, ensuring year-round water availability for 
-                                agriculture, industry, and residential use. Designed as a natural solution to coastal erosion, the 
-                                canal also supports tourism, real estate, and other economic activities. </p><br>
-                                <p>The Nest Eco City: A planned eco-city developed along the canal, The Nest offers resort-style villas, 
-                                    retirement homes, healthcare facilities, and recreational spaces, all designed with sustainability in mind. 
-                                    Residents enjoy access to lush green parks, waterfronts, and cutting-edge technology such as smart homes 
-                                    powered by renewable energy.</p>
                         </div>
+                       
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
-                            <img src="assets/images/Image3.jpeg">
+                            <img src="assets/images/GODSLINE10.jpg">
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center row-reverse">
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-left">
-                            <div class="section-title">
-                                <h3> <b> Key Features of the Project</b> </h3>
-                            </div>
-                            <!-- <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p> -->
-                                    <ul>
-                                        <li><b>500 km Canal: </b>A mineral water canal that provides a sustainable water supply and coastal protection.</li>
-                                        <li><b>Eco-City: </b>Residential development offering luxury villas, green spaces, and modern healthcare facilities.</li>
-                                        <li> <b>Smart Infrastructure: </b>Integration of AI, IoT, and blockchain technologies for resource management, infrastructure monitoring, and community engagement.</li>
-                                        <li><b>Sustainability: </b>A project built on the principles of environmental conservation, renewable energy use, and eco-friendly construction.</li>
-                                    </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-right">
-                            <img src="assets/images/GODSLINE4.jpg">
-                        </div>
-                    </div>
+                <div class="row">
+                
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Tourism and Hospitality: </h6></strong> <br>
+                                   <p>
+                                   The Nest Eco City is expected to become a major hub for eco-tourism. The development of luxury resorts, 
+                                   hotels, and recreational facilities will create numerous jobs in the <strong>hospitality</strong> and <strong>tourism</strong> sectors, 
+                                   including hotel management, tourism operations, customer service, and event planning.
+
+
+                                   </p>
+                                </li>
+
+                                
+                
                 </div>
+
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Real Estate and Property Management: </h6></strong> <br>
+                                  <p>With the sale and leasing of residential and commercial properties, there will be a demand for 
+                                    professionals in <strong>real estate sales</strong> , <strong>property management</strong>, and <strong>leasing services</strong>. 
+                                    This sector will offer  employment opportunities for agents, brokers, and property managers.
+
+</p>
+                                </li>
+                </div>
+                
+                
+                   
+                </div>
+               
             </div>
+            
         </section>
-        <section class="aboutpage-btm-sec about-us-section padding-bottom">
+        <!-- <section class="aboutpage-btm-sec about-us-section padding-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-4">
@@ -138,7 +181,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </div>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">

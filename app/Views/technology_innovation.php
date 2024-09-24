@@ -3,86 +3,123 @@
     <div class="wrapper">
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
-                <div class="section-title">
-                    <h2><center>God’s Line: The Nest Eco City</center></h2><br>
-                    <h3><center><span style="color: #A9A9A9;">
-                        </span></center></h3>
+            <div class="section-title">
+                    <h2><center><B> Integrating Advanced Technologies for a Smart, Sustainable City</B> </center></h2><br>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">"God’s Line: The Nest Eco City" is a groundbreaking sustainable urban development 
-                                project in Kerala, India. Spanning over 500 kilometers from Kasaragod to Thiruvananthapuram, this ambitious 
-                                project integrates a 20-meter-wide, 20-meter-deep canal that provides a continuous, sustainable water supply, 
-                                acting as both a water resource and a natural breakwater. Flanked by The Nest Eco City, a serene residential 
-                                community, the project seamlessly blends environmental stewardship with modern urban living.</p>
+                            <p style="text-align: justify;">Technology is at the heart of God’s Line: The Nest Eco City. 
+                                The project leverages cutting-edge technologies to create a smart, efficient, and environmentally 
+                                sustainable urban space. From AI-driven water management to blockchain-based community engagement, 
+                                these innovations ensure that God’s Line is a model for future smart cities.
+                            </p><br><br>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
+                   
+                    <!-- <div class="col-md-6 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">
+                        <h4>2. Pioneering Sustainable Urban Development</h4>
+                            <div style="margin-top:1em;">
+                            <p style="text-align: justify;">As urban populations in Kerala and India rapidly grow, the need for sustainable 
+                                urbanization becomes more urgent. God’s Line: The Nest Eco City presents a revolutionary model for eco-friendly 
+                                urban development that can be replicated in other regions facing similar challenges.From eco-friendly 
+                                construction materials to energy-efficient homes, solar-powered facilities, and smart technologies, 
+                                the city offers a blueprint for green urban living. This model of sustainable development minimizes 
+                                environmental impact while enhancing the quality of life for residents.<br><br>
                                 </p>
-                                
+                            </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
-                <div class="section-title text-center">
-                    <h2><b> A Visionary Project for Kerala’s Future </h2>
-                </div>
-                <div class="row align-items-center">
+                <!-- <div class="section-title text-center">
+                    <h2><b> About </b> God's Own Country - KERALA </h2>
+                </div> -->
+                <div class="row  row-reverse">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3>Future of Sustainable Urban Living</h3>
+                                <h3>Key Technological Features</h3>
+                                <ul style="margin-top:1.2em;">
+                                <li> <strong><h6>AI for Water and Infrastructure Management: </h6></strong> <br> 
+                                    <p>
+                                    AI algorithms are employed to predict water demand, optimize distribution, and automate infrastructure
+                                     operations. By analyzing weather patterns and real-time data, the AI system can anticipate water needs 
+                                     and control canal gates for efficient water flow management. Additionally, AI helps in identifying 
+                                     potential maintenance needs before problems arise, reducing downtime and increasing infrastructure
+                                      efficiency.
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;">
+                                    <strong><h6>Internet of Things (IoT) for Real-Time Monitoring: </h6></strong> <br>
+                                    <p>
+                                    IoT sensors are deployed throughout the canal and across the residential areas of The Nest Eco City to 
+                                    collect real-time data on water levels, flow rates, and environmental conditions. This data is continuously
+                                     monitored to ensure optimal performance of the canal and to prevent issues like water leaks, blockages, 
+                                     or resource wastage.
+
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;"> 
+                                    <strong><h6>Blockchain for Secure Transactions and Community Engagement: </h6></strong> <br>
+                                    <p>
+                                    Blockchain technology ensures secure, transparent, and tamper-proof transactions related to water 
+                                    distribution, energy use, and community services. Residents can track their water and energy consumption 
+                                    in real-time and make payments through a decentralized platform. Blockchain also enables community members 
+                                    to participate in decision-making processes, such as voting on local initiatives, enhancing transparency 
+                                    and trust.
+
+
+                                    </p>
+                                </li>
+                                
+                                
+                            </ul>
                             </div>
-                            <p>The Canal: The God’s Line canal is the centerpiece of the project. 
-                                It channels water from Kerala’s hill stations and dams, ensuring year-round water availability for 
-                                agriculture, industry, and residential use. Designed as a natural solution to coastal erosion, the 
-                                canal also supports tourism, real estate, and other economic activities. </p><br>
-                                <p>The Nest Eco City: A planned eco-city developed along the canal, The Nest offers resort-style villas, 
-                                    retirement homes, healthcare facilities, and recreational spaces, all designed with sustainability in mind. 
-                                    Residents enjoy access to lush green parks, waterfronts, and cutting-edge technology such as smart homes 
-                                    powered by renewable energy.</p>
                         </div>
+                       
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
-                            <img src="assets/images/Image3.jpeg">
+                            <img src="assets/images/TECHNOLOGY_INNOVATION.jpg">
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center row-reverse">
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-left">
-                            <div class="section-title">
-                                <h3> <b> Key Features of the Project</b> </h3>
-                            </div>
-                            <!-- <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p> -->
-                                    <ul>
-                                        <li><b>500 km Canal: </b>A mineral water canal that provides a sustainable water supply and coastal protection.</li>
-                                        <li><b>Eco-City: </b>Residential development offering luxury villas, green spaces, and modern healthcare facilities.</li>
-                                        <li> <b>Smart Infrastructure: </b>Integration of AI, IoT, and blockchain technologies for resource management, infrastructure monitoring, and community engagement.</li>
-                                        <li><b>Sustainability: </b>A project built on the principles of environmental conservation, renewable energy use, and eco-friendly construction.</li>
-                                    </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-right">
-                            <img src="assets/images/GODSLINE4.jpg">
-                        </div>
-                    </div>
+                <div class="row">
+                
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Smart City Infrastructure: </h6></strong> <br>
+                                    <p>
+                                    <strong>Smart grids, energy-efficient lighting</strong>, and <strong>intelligent traffic management systems</strong> are integrated 
+                                    throughout the eco-city, reducing energy use and improving quality of life. Smart home technologies
+                                     allow residents to control their energy consumption, water use, and security systems from their mobile 
+                                     devices, ensuring a connected and efficient living experience.
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;">
+                                    <strong><h6>Digital Twin for Predictive Maintenance: </h6></strong> <br>
+                                    <p>
+                                    A <strong>digital twin</strong> of the entire canal and city infrastructure is created, allowing engineers to simulate
+                                     different scenarios and optimize infrastructure performance. This technology is used to predict
+                                      maintenance needs and manage resources more effectively, reducing operational costs and enhancing the 
+                                      sustainability of the city.
+                                    </p>
+                                </li>
+                
+                </div>
+                
                 </div>
             </div>
+            
         </section>
-        <section class="aboutpage-btm-sec about-us-section padding-bottom">
+        <!-- <section class="aboutpage-btm-sec about-us-section padding-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-4">
@@ -138,7 +175,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </div>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">

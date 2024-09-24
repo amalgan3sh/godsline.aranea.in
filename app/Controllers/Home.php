@@ -140,4 +140,79 @@ class Home extends BaseController
                 ->setJSON(['success' => false, 'error' => 'Failed to save data']);
         }
     }
+
+    public function StrategicImportance(): string
+    {
+        return view('header') . view('strategic_importance');
+    }
+
+    public function CanalSystem(): string 
+    {
+        return view('header') . view('canal_system');
+    }
+
+    public function NestEcoCity(): string 
+    {
+        return view('header') . view('nest_eco_city');
+    }
+
+    public function TechnologyInnovation(): string 
+    {
+        return view('header') . view('technology_innovation');
+    }
+
+    public function RenewableEnergy(): string 
+    {
+        return view('header') . view('renewable_energy');
+    }
+
+    public function WaterResourceManagement(): string 
+    {
+        return view('header') . view('water_resource_management');
+    }
+    
+    public function EnvironmentalProtection(): string 
+    {
+        return view('header') . view('environmental_protection');
+    }
+    public function WhyInvest(): string 
+    {
+        return view('header') . view('why_invest');
+    }
+    public function FinancialProjections(): string 
+    {
+        return view('header') . view('financial_projections');
+    }
+    
+    public function InvestorBenefits(): string 
+    {
+        return view('header') . view('investor_benefits');
+    }
+
+    public function JobCreation(): string 
+    {
+        return view('header') . view('job_creation');
+    }
+    public function CommunityDevelopment(): string 
+    {
+        return view('header') . view('community_development');
+    }
+    public function EconomicGrowth(): string 
+    {
+        return view('header') . view('economic_growth');
+    }
+
+    public function StrategicPartners(): string 
+    {
+        return view('header') . view('strategic_partners');
+    }
+    public function PublicPrivatePartnerships(): string 
+    {
+        return view('header') . view('public_private_partnerships');
+    }
+    public function InternationalCollaboration(): string 
+    {
+        return view('header') . view('international_collaboration');
+    }
+
 }

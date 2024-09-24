@@ -3,51 +3,85 @@
     <div class="wrapper">
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
-                <div class="section-title">
-                    <h2><center>God’s Line: The Nest Eco City</center></h2><br>
-                    <h3><center><span style="color: #A9A9A9;">
-                        </span></center></h3>
+            <div class="section-title">
+                    <h2><center><B> Partnering with Global Leaders to Drive Sustainable Urban Development</B> </center></h2><br>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">"God’s Line: The Nest Eco City" is a groundbreaking sustainable urban development 
-                                project in Kerala, India. Spanning over 500 kilometers from Kasaragod to Thiruvananthapuram, this ambitious 
-                                project integrates a 20-meter-wide, 20-meter-deep canal that provides a continuous, sustainable water supply, 
-                                acting as both a water resource and a natural breakwater. Flanked by The Nest Eco City, a serene residential 
-                                community, the project seamlessly blends environmental stewardship with modern urban living.</p>
+                            <p style="text-align: justify;">As a project of international significance, God’s Line: The Nest Eco City has
+                                 garnered support from global organizations and institutions. These international collaborations not only
+                                  provide financial backing but also help align the project with global standards for <strong>sustainability</strong>,
+                                   <strong>climate resilience</strong>, and <strong>urban development</strong>. Our international partners bring expertise, financial support, 
+                                   and technical assistance that ensure the project’s success on a global stage.
+
+                            </p><br><br>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
+                    <!-- <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">
+                            <h4><center>Long-Term Water Security                            </center></h4>
+                            <div style="margin-top:1em;">
+                                <p>
+                                The combination of smart water management, rainwater harvesting, and greywater recycling ensures that God’s Line
+                                 will not only meet the immediate water needs of the community but will also remain sustainable in the face of 
+                                 future climate change challenges. Our water management strategy helps protect Kerala from droughts, ensuring a
+                                  reliable water supply for future generations.
+
+
+
                                 </p>
-                                
+                            </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </section>
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2><b> A Visionary Project for Kerala’s Future </h2>
+                    <h2><b> Building a Global Network for Environmental and Economic Success </b>  </h2>
                 </div>
-                <div class="row align-items-center">
+                <div class="row  row-reverse">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3>Future of Sustainable Urban Living</h3>
+                                <h3>International Partners</h3>
+                                <ul style="margin-top:1.2em;">
+                                <li> <strong><h6>World Bank and International Financial Institutions: </h6></strong> <br> 
+                                    <p>
+                                    The project has secured funding and advisory support from the <strong>World Bank</strong> and other international financial
+                                     institutions. These organizations provide loans, grants, and financial guarantees to support the 
+                                     sustainable development goals of the project, particularly in areas related to water management, 
+                                     renewable energy, and eco-friendly construction.
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;">
+                                    <strong><h6>International Environmental Organizations: </h6></strong> <br>
+                                    <p>
+                                    We are working closely with <strong>global environmental organizations</strong> to ensure that every aspect of the project 
+                                    is aligned with the <strong>United Nations Sustainable Development Goals (SDGs)</strong>. These partnerships focus on 
+                                    biodiversity protection, carbon emission reduction, and climate resilience, ensuring that the project 
+                                    contributes to global environmental initiatives.
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;"> 
+                                    <strong><h6>Global Technology Providers: </h6></strong> <br>
+                                   <p>
+                                   By partnering with international technology firms, we are able to integrate the most advanced <strong>AI</strong>, <strong>IoT</strong>, and 
+                                   <strong>blockchain solutions</strong> into the infrastructure of The Nest Eco City. These global partnerships enable us to 
+                                   build a smart, connected city that is not only efficient but also sustainable for future generations.
+
+                                   </p>
+                                </li>
+                                
+                                
+                            </ul>
                             </div>
-                            <p>The Canal: The God’s Line canal is the centerpiece of the project. 
-                                It channels water from Kerala’s hill stations and dams, ensuring year-round water availability for 
-                                agriculture, industry, and residential use. Designed as a natural solution to coastal erosion, the 
-                                canal also supports tourism, real estate, and other economic activities. </p><br>
-                                <p>The Nest Eco City: A planned eco-city developed along the canal, The Nest offers resort-style villas, 
-                                    retirement homes, healthcare facilities, and recreational spaces, all designed with sustainability in mind. 
-                                    Residents enjoy access to lush green parks, waterfronts, and cutting-edge technology such as smart homes 
-                                    powered by renewable energy.</p>
                         </div>
+                       
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
@@ -55,34 +89,44 @@
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center row-reverse">
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-left">
-                            <div class="section-title">
-                                <h3> <b> Key Features of the Project</b> </h3>
-                            </div>
-                            <!-- <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p> -->
-                                    <ul>
-                                        <li><b>500 km Canal: </b>A mineral water canal that provides a sustainable water supply and coastal protection.</li>
-                                        <li><b>Eco-City: </b>Residential development offering luxury villas, green spaces, and modern healthcare facilities.</li>
-                                        <li> <b>Smart Infrastructure: </b>Integration of AI, IoT, and blockchain technologies for resource management, infrastructure monitoring, and community engagement.</li>
-                                        <li><b>Sustainability: </b>A project built on the principles of environmental conservation, renewable energy use, and eco-friendly construction.</li>
-                                    </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-right">
-                            <img src="assets/images/GODSLINE4.jpg">
-                        </div>
-                    </div>
+                <div class="row">
+                
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Global Recognition and Awards </h6></strong> <br>
+                                   <p>
+                                   Through international partnerships, God’s Line: The Nest Eco City is poised to receive global recognition
+                                    as a leader in sustainable urban development. The project is expected to participate in and potentially 
+                                    win awards for its contributions to sustainability, innovation, and smart city infrastructure.
+
+                                   </p>
+                                </li>
+
+                                
+                
                 </div>
+
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Knowledge Transfer and Capacity Building </h6></strong> <br>
+                                  <p>
+                                  Our international partners are committed to <strong>knowledge transfer</strong>, ensuring that local 
+                                  engineers, architects, and technicians are trained in the latest technologies and sustainable practices. 
+                                  This collaboration builds local capacity and ensures that the project benefits the community long after its
+                                   completion.
+
+                                  </p>
+                                </li>
+                </div>
+                
+                
+                   
+                </div>
+               
             </div>
+            
         </section>
-        <section class="aboutpage-btm-sec about-us-section padding-bottom">
+        <!-- <section class="aboutpage-btm-sec about-us-section padding-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-4">
@@ -138,7 +182,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </div>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">

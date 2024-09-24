@@ -3,26 +3,42 @@
     <div class="wrapper">
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
-                <div class="section-title">
-                    <h2><center>God’s Line: The Nest Eco City</center></h2><br>
-                    <h3><center><span style="color: #A9A9A9;">
-                        </span></center></h3>
+            <div class="section-title">
+                    <h2><center><B> STRATEGIC IMPORTANCE </B> </center></h2><br>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">"God’s Line: The Nest Eco City" is a groundbreaking sustainable urban development 
-                                project in Kerala, India. Spanning over 500 kilometers from Kasaragod to Thiruvananthapuram, this ambitious 
-                                project integrates a 20-meter-wide, 20-meter-deep canal that provides a continuous, sustainable water supply, 
-                                acting as both a water resource and a natural breakwater. Flanked by The Nest Eco City, a serene residential 
-                                community, the project seamlessly blends environmental stewardship with modern urban living.</p>
+                            <p style="text-align: justify;">This project is crucial for Kerala’s future, addressing water scarcity, promoting  
+                                sustainable urbanization, and protecting the environment. It positions Kerala as a leader in innovative, 
+                                eco friendly development, with significant economic and social benefits.
+                            </p><br><br>
                         </div>
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">
+                            <h4>1. Addressing Water Scarcity and Climate Resilience</h4>
+                            <div style="margin-top:1em;">
+                            <p style="text-align: justify;">One of the greatest challenges facing Kerala and many parts of India is the 
+                                growing threat of water scarcity. With unpredictable monsoons, uneven water distribution, and rising demands 
+                                from urban populations, managing water resources is becoming increasingly difficult. God’s Line is a proactive 
+                                solution to this issue, designed to secure Kerala’s water future.<br><br>
                                 </p>
-                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-12">
+                        <div class="about-us-content">
+                        <h4>2. Pioneering Sustainable Urban Development</h4>
+                            <div style="margin-top:1em;">
+                            <p style="text-align: justify;">As urban populations in Kerala and India rapidly grow, the need for sustainable 
+                                urbanization becomes more urgent. God’s Line: The Nest Eco City presents a revolutionary model for eco-friendly 
+                                urban development that can be replicated in other regions facing similar challenges.From eco-friendly 
+                                construction materials to energy-efficient homes, solar-powered facilities, and smart technologies, 
+                                the city offers a blueprint for green urban living. This model of sustainable development minimizes 
+                                environmental impact while enhancing the quality of life for residents.<br><br>
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -30,57 +46,73 @@
         </section>
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
-                <div class="section-title text-center">
-                    <h2><b> A Visionary Project for Kerala’s Future </h2>
-                </div>
-                <div class="row align-items-center">
+                <!-- <div class="section-title text-center">
+                    <h2><b> About </b> God's Own Country - KERALA </h2>
+                </div> -->
+                <div class="row  row-reverse">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3>Future of Sustainable Urban Living</h3>
+                                <h4>3. Economic Growth and Regional Development</h4>
                             </div>
-                            <p>The Canal: The God’s Line canal is the centerpiece of the project. 
-                                It channels water from Kerala’s hill stations and dams, ensuring year-round water availability for 
-                                agriculture, industry, and residential use. Designed as a natural solution to coastal erosion, the 
-                                canal also supports tourism, real estate, and other economic activities. </p><br>
-                                <p>The Nest Eco City: A planned eco-city developed along the canal, The Nest offers resort-style villas, 
-                                    retirement homes, healthcare facilities, and recreational spaces, all designed with sustainability in mind. 
-                                    Residents enjoy access to lush green parks, waterfronts, and cutting-edge technology such as smart homes 
-                                    powered by renewable energy.</p>
+                            <p>The economic potential of God’s Line is vast. The project is poised to create a ripple effect of economic 
+                                growth, benefiting not only the residents of The Nest Eco City but the entire region of Kerala.Kerala is 
+                                already known as "God’s Own Country," and the development of The Nest Holiday City—a luxurious, eco-friendly 
+                                residential and tourism hub—will attract both domestic and international visitors.</p>
+                        </div>
+                        <div class="abt-shp-column-left" style="margin-top:1em;">
+                            <div class="section-title">
+                                <h4>4. Supporting India’s National Development Goals</h4>
+                            </div>
+                            <p>God’s Line: The Nest Eco City aligns with India’s national goals for sustainable development, water security, 
+                                and smart city initiatives. It supports the government's commitment to achieving the United Nations 
+                                Sustainable Development Goals (SDGs) while advancing India's growth trajectory.India’s Smart Cities Mission 
+                                seeks to drive economic growth and improve quality of life by harnessing technology, sustainability, and 
+                                innovation. God’s Line is perfectly aligned with this mission, combining advanced technologies with 
+                                sustainable practices to create a smart, resilient, and eco-friendly urban ecosystem.</p>
+                        </div>
+                        <div class="about-us-content" style="margin-top:1em;">
+                        <h4>5. Environmental Conservation and Ecological Balance</h4>
+                            <div style="margin-top:1em;">
+                            <p style="text-align: justify;">In a world increasingly threatened by environmental degradation, God’s Line plays a 
+                                critical role in promoting conservation and restoring ecological balance.The project includes reforestation and 
+                                habitat conservation initiatives aimed at preserving Kerala’s rich biodiversity.With a focus on renewable energy sources,
+                                 such as solar power and wind energy, The Nest Eco City reduces its reliance on fossil fuels.<br><br>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="about-us-content">
+                        <h4>6. Replicable Model for Global Urban Solutions                        </h4>
+                            <div style="margin-top:1em;">
+                            <p style="text-align: justify;">As cities around the world grapple with the impacts of climate change, 
+                                water scarcity, and unplanned urbanization, God’s Line: The Nest Eco City stands out as a replicable model 
+                                for sustainable urban development.
+
+                            The innovative solutions and integrated approaches developed through this project can be applied to other regions 
+                            and countries facing similar challenges. Whether it’s efficient water management, eco-friendly construction, 
+                            or smart city technologies, God’s Line provides a roadmap for building sustainable, resilient cities that balance 
+                            environmental protection with economic growth.<br><br>
+                                </p>
+                            </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
-                            <img src="assets/images/Image3.jpeg">
+                            <img src="assets/images/GODSLINE5.jpg">
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center row-reverse">
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-left">
-                            <div class="section-title">
-                                <h3> <b> Key Features of the Project</b> </h3>
-                            </div>
-                            <!-- <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p> -->
-                                    <ul>
-                                        <li><b>500 km Canal: </b>A mineral water canal that provides a sustainable water supply and coastal protection.</li>
-                                        <li><b>Eco-City: </b>Residential development offering luxury villas, green spaces, and modern healthcare facilities.</li>
-                                        <li> <b>Smart Infrastructure: </b>Integration of AI, IoT, and blockchain technologies for resource management, infrastructure monitoring, and community engagement.</li>
-                                        <li><b>Sustainability: </b>A project built on the principles of environmental conservation, renewable energy use, and eco-friendly construction.</li>
-                                    </ul>
-                        </div>
+                <div class="row">
+                <div class="col-md-6 col-12" style="margin-top:1.3em;">
+                        
                     </div>
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-right">
-                            <img src="assets/images/GODSLINE4.jpg">
-                        </div>
+
+                    <div class="col-md-6 col-12" style="margin-top:1.3em;">
+                        
                     </div>
                 </div>
             </div>
+            
         </section>
         <section class="aboutpage-btm-sec about-us-section padding-bottom">
             <div class="container">

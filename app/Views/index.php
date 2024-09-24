@@ -10,7 +10,7 @@
                                 <div class="swiper-slide home-left-item">
                                     <div class="home-left-item-inner">
                                         <div class="banner-image">
-                                            <img src="assets/images/teak_forest.jpeg" alt="">
+                                            <img src="assets/images/Image2.jpg" alt="">
                                             <div class="tooltip-custom" style="top: 23%;right: 27%;left: auto; ">
                                                 <div class="tool-ic">+</div>
                                             </div>
@@ -19,7 +19,7 @@
                                             </div>
                                         </div>
                                         <div class="home-left-content">
-                                            <a href="#CategorySec" class="subtitle">
+                                            <a href="" class="subtitle">
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="38"
                                                     viewBox="0 0 32 38" fill="none">
                                                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -28,17 +28,18 @@
                                                     <rect x="31.5" y="0.5" width="37" height="31" rx="15.5"
                                                         transform="rotate(90 31.5 0.5)" stroke="#FFE7D9" />
                                                 </svg>
-                                                Welcome to 
-                                                <br> Aranea Platform
+                                               
+                                                <br> Future of Sustainable Urban Living
                                             </a>
-                                            <p>Nestled in the heart of Kerala, often referred to as "God's Own Country," Aranea Platform is dedicated to fostering collaboration and innovation. Our mission is to create a seamless environment that supports collaboration between various stakeholders, including corporations, ventures, and strategic partners.</p>
+                                            <p>A Revolutionary Eco-City Development Built Around Kerala’s Lifeline – The God's Line Canal</p>
+                                            <!-- <p>Nestled in the heart of Kerala, often referred to as "God's Own Country," Aranea Platform is dedicated to fostering collaboration and innovation. Our mission is to create a seamless environment that supports collaboration between various stakeholders, including corporations, ventures, and strategic partners.</p> -->
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide home-left-item">
                                     <div class="home-left-item-inner">
                                         <div class="banner-image">
-/                                            <img src="assets/images/banner_2.jpg" alt="">
+                                            <img src="assets/images/Image3.jpeg" alt="">
                                             <div class="tooltip-custom" style="top: 23%;right: 27%;left: auto; ">
                                                 <div class="tool-ic">+</div>
                                             </div>
@@ -54,9 +55,14 @@
                                                         fill="#FFE7D9" />
                                                     <rect x="31.5" y="0.5" width="37" height="31" rx="15.5" transform="rotate(90 31.5 0.5)" stroke="#FFE7D9" />
                                                 </svg>
-                                                Discover <br> Teak Forest
+                                                 <br> Empowering Economic Growth
                                             </a>
-                                            <p>Welcome to The Nest Holiday City, a serene living environment designed for senior couples, individuals, and young retirees. Nestled in the heart of Kerala, The Nest offers personalized care and professional support, ensuring a high quality of life for our residents.</p>
+                                            <p>
+                                            Driving regional development through innovation, job creation, and sustainable industries. 
+                                            God’s Line is a catalyst for economic growth, providing new opportunities for local communities
+                                             and businesses.
+
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
@@ -96,9 +102,9 @@
                                         </svg>
                                         Kerala, India
                                     </div>
-                                        <h3><a href="product.html">Discover Teak Forest : The Nest Ecocity City</a>
+                                        <h3><a href="">Future of Sustainable Urban Living</a>
                                         </h3>
-                                        <ul class="product-tag">
+                                        <!-- <ul class="product-tag">
                                             <li> <span class="badge"><svg xmlns="http://www.w3.org/2000/svg" width="12"
                                                         height="13" viewBox="0 0 12 13" fill="none">
                                                         <path
@@ -113,11 +119,15 @@
                                                             fill="#FFE7D9" />
                                                     </svg> 4 Rooms</span>
                                             </li>
-                                        </ul>
-                                        <p>Welcome to The Teak Forest, where modern living meets the tranquility of nature. Our homes are designed to provide comfort and luxury in a serene environment, perfect for senior couples, individuals, and young retirees.</p>
-                                        <div class="price">
+                                        </ul> -->
+                                        <p>Discover a new way of living that blends cutting-edge technology with sustainable urban development.
+                                             God's Line: The Nest Eco City is a transformative project designed to address water resource 
+                                             management, protect the environment, and create a vibrant residential community. Spanning 500 
+                                             kilometers, this 20-meter-wide canal is set to reshape Kerala's future.</p>
+                                        <!-- <p>Welcome to The Teak Forest, where modern living meets the tranquility of nature. Our homes are designed to provide comfort and luxury in a serene environment, perfect for senior couples, individuals, and young retirees.</p> -->
+                                        <!-- <div class="price">
                                             <ins>3,459,000 <span class="currency-type">INR</span></ins>
-                                        </div>
+                                        </div> -->
                                         <div class="home-product-bottom-content">
                                             <a href="#" class="btn-secondary">Show full details <svg
                                                     xmlns="http://www.w3.org/2000/svg" width="18" height="17"
@@ -175,9 +185,9 @@
                                             </svg>
                                             Kerala, India
                                         </div>
-                                        <h3><a href="product.html">A modern home in the comfort of Kerala</a>
+                                        <h3><a href="">Resilient Urban Living</a>
                                         </h3>
-                                        <ul class="product-tag">
+                                        <!-- <ul class="product-tag">
                                             <li> <span class="badge"><svg xmlns="http://www.w3.org/2000/svg" width="12"
                                                         height="13" viewBox="0 0 12 13" fill="none">
                                                         <path
@@ -192,11 +202,16 @@
                                                             fill="#FFE7D9" />
                                                     </svg> 5 Rooms</span>
                                             </li>
-                                        </ul>
-                                        <p>Welcome to The Nest Holiday City, where tranquility meets modern living. Our community offers a perfect blend of comfort and luxury, tailored for senior couples, individuals, and young retirees. Nestled in the serene landscapes of Kerala, The Nest provides personalized care, professional support, and a vibrant community, ensuring a fulfilling lifestyle for all our residents.</p>
-                                        <div class="price">
+                                        </ul> -->
+                                        <p>
+                                        Building a sustainable city that adapts to the challenges of tomorrow. Through smart technologies and
+                                         eco-friendly infrastructure, we are creating a resilient, self-sustaining urban ecosystem designed 
+                                         for future generations.
+                                        </p>
+                                        <!-- <p>Welcome to The Nest Holiday City, where tranquility meets modern living. Our community offers a perfect blend of comfort and luxury, tailored for senior couples, individuals, and young retirees. Nestled in the serene landscapes of Kerala, The Nest provides personalized care, professional support, and a vibrant community, ensuring a fulfilling lifestyle for all our residents.</p> -->
+                                        <!-- <div class="price">
                                             <ins>5,000,000 <span class="currency-type">INR</span></ins>
-                                        </div>
+                                        </div> -->
                                         <div class="home-product-bottom-content">
                                             <a href="#" class="btn-secondary">Show full details <svg
                                                     xmlns="http://www.w3.org/2000/svg" width="18" height="17"
@@ -261,27 +276,30 @@
             </div>
         </section>
         <section class="category-section  padding-bottom" id="CategorySec">
-            <div class="container">
+            <div class="container" style="padding-top:2em;">
             <div class="section-title big-title">
-                <h2>Teak Forest - </br>The Nest Ecocity</h2>
+                <h2>GodsLine - </br>The Nest Ecocity</h2>
             </div>
             <div class="row row-gap">
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="category-left-side">
-                        <p>Welcome to The Nest Holiday City, an innovative concept dedicated to providing a serene and secure living environment for senior couples, individuals, and young retirees. Nestled in the picturesque landscapes of Kerala, our community offers a perfect blend of comfort, care, and companionship.</p>
-                        <p>Our mission is to enhance the quality of life for our residents through personalized care, professional support, and a vibrant community atmosphere. The Nest Holiday City is designed to cater to the diverse needs of its residents, ensuring that everyone feels at home and well-cared for.</p>
-                        <p>From 24x7 medical support and healthcare facilities to engaging community activities and homely food, we strive to create a nurturing environment that promotes well-being and happiness. Experience the peace of mind that comes with knowing you or your loved ones are in a safe and supportive community.</p>
+                        <p>Welcome to "God's Line: The Nest Eco City" – a groundbreaking initiative aimed at transforming the future of urban living in Kerala, India. We are building a sustainable, eco-friendly city centered around a state-of-the-art canal system, designed to meet the water management challenges of tomorrow, while promoting economic growth and a higher quality of life for residents. Explore the future of sustainable living!</p>
+                        <p>We aim to blend innovative infrastructure with sustainable practices to foster an environmentally conscious, economically prosperous future for Kerala.</p>
+                        <p>This is an ambitious and transformative project aimed at creating a sustainable and innovative urban  development in Kerala. Spanning from Kasaragod to Thiruvananthapuram, this project centers around the  "God's Line" Canal, a 20-meter wide and 20-meter deep waterway designed to provide a reliable water  supply, act as a natural breakwater, and support the surrounding environment.                         </p>
+                        <!-- <p>Welcome to The Nest Holiday City, an innovative concept dedicated to providing a serene and secure living environment for senior couples, individuals, and young retirees. Nestled in the picturesque landscapes of Kerala, our community offers a perfect blend of comfort, care, and companionship.</p> -->
+                        <!-- <p>Our mission is to enhance the quality of life for our residents through personalized care, professional support, and a vibrant community atmosphere. The Nest Holiday City is designed to cater to the diverse needs of its residents, ensuring that everyone feels at home and well-cared for.</p> -->
+                        <!-- <p>From 24x7 medical support and healthcare facilities to engaging community activities and homely food, we strive to create a nurturing environment that promotes well-being and happiness. Experience the peace of mind that comes with knowing you or your loved ones are in a safe and supportive community.</p> -->
                             <div class="swiper category-slider">
                                 <div class="swiper-wrapper">
                                     <div class="swiper-slide category-itm">
                                         <div class="category-itm-inner">
                                             <div class="category-image">
                                                 <a href="#">
-/                                                    <img src="assets/images/nest_resort.jpg" alt="">
+                                                    <img src="assets/images/GODSLINE1.jpeg" alt="">
                                                 </a>
                                             </div>
                                             <div class="category-content">
-                                                <h4><a href="#">Resort</a></h4>
+                                                <h4><a href="#">Sustainability</a></h4>
                                                 <a href="#" class="btn-icon"><svg xmlns="http://www.w3.org/2000/svg"
                                                         width="17" height="17" viewBox="0 0 17 17" fill="none">
                                                         <g clip-path="url(#clip0_27_3418)">
@@ -302,11 +320,11 @@
                                         <div class="category-itm-inner">
                                             <div class="category-image">
                                                 <a href="#">
-/                                                    <img src="assets/images/nest_villa.jpg" alt="">
+                                                    <img src="assets/images/GODSLINE2.jpeg" alt="">
                                                 </a>
                                             </div>
                                             <div class="category-content">
-                                                <h4><a href="#">Villa</a></h4>
+                                                <h4><a href="#">Innovation</a></h4>
                                                 <a href="#" class="btn-icon"><svg xmlns="http://www.w3.org/2000/svg"
                                                         width="17" height="17" viewBox="0 0 17 17" fill="none">
                                                         <g clip-path="url(#clip0_27_3418)">
@@ -327,11 +345,11 @@
                                         <div class="category-itm-inner">
                                             <div class="category-image">
                                                 <a href="#">
-/                                                    <img src="assets/images/nest_farmhouse.jpg" alt="">
+                                                    <img src="assets/images/GODSLINE3.jpeg" alt="">
                                                 </a>
                                             </div>
                                             <div class="category-content">
-                                                <h4><a href="#">Farmhouse</a></h4>
+                                                <h4><a href="#">Community</a></h4>
                                                 <a href="#" class="btn-icon"><svg xmlns="http://www.w3.org/2000/svg"
                                                         width="17" height="17" viewBox="0 0 17 17" fill="none">
                                                         <g clip-path="url(#clip0_27_3418)">
@@ -385,16 +403,19 @@
                     <div class="col-lg-6 col-md-6 col-12">
                         <div class="category-right-side">
                             <div class="category-right-img">
-                                <img src="assets/images/THE_NEST_HOLIDAYCITY.jpg" alt="">
+                                <img src="assets/images/Image4.jpeg" alt="">
                             </div>
-                            <p>Discover The Nest Holiday City, a sanctuary designed to offer a blend of luxury and comfort. Situated in the lush landscapes of Kerala, our community is perfect for senior couples, individuals, and young retirees. With personalized care, modern amenities, and a vibrant community, The Nest ensures a fulfilling and serene lifestyle for all our residents.</p>
+                            <p>Given the project's scope, impact, and innovative approach, we are confident in its potential to be 
+                                recognized  on a global stage. As such, the Monsoon Water Utilization Project is being nominated for 
+                                prestigious global  prizes that honor excellence in sustainability, innovation, and environmental stewardship.</p>
+                            <!-- <p>Discover The Nest Holiday City, a sanctuary designed to offer a blend of luxury and comfort. Situated in the lush landscapes of Kerala, our community is perfect for senior couples, individuals, and young retirees. With personalized care, modern amenities, and a vibrant community, The Nest ensures a fulfilling and serene lifestyle for all our residents.</p> -->
                         </div>
                     </div>
                 </div>
             </div>
         </section>
         <section class="place-search-section  padding-bottom">
-            <div class="container">
+            <!-- <div class="container">
                 <div class="section-title">
                     <h2>Find your <br> home place</h2>
                 </div>
@@ -477,18 +498,23 @@
                             </div>
                         </div>
                     </form>
-                </div>
+                </div> -->
             </div>
             <div class="offset-container offset-left">
                 <div class="row row-gap">
-                    <div class="col-lg-7 col-xl-6 col-12">
-                        <div class="swiper place-slider">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide product-card">
+                <div class="col-lg-5 col-xl-6 col-12">
+                        <div class="place-map-img">
+                            <img src="assets/images/GODSLINE_HOME.jpeg" alt="">
+                        </div>
+                    </div>
+                    <!-- <div class="col-lg-7 col-xl-6 col-12"> -->
+                        <!-- <div class="swiper place-slider"> -->
+                            <!-- <div class="swiper-wrapper"> -->
+                                <!-- <div class="swiper-slide product-card">
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-/                                                <img src="assets/images/HOUSE_1.jpg" alt="">
+                                               <img src="assets/images/HOUSE_1.jpg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -559,8 +585,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="swiper-slide product-card">
+                                </div> -->
+                                <!-- <div class="swiper-slide product-card">
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
@@ -636,12 +662,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="swiper-slide product-card">
+                                </div> -->
+                                <!-- <div class="swiper-slide product-card">
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -714,12 +740,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="swiper-slide product-card">
-                                    <div class="product-card-inner">
+                                </div> -->
+                                <!-- <div class="swiper-slide product-card"> -->
+                                    <!-- <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -789,10 +815,10 @@
                                                 </a>
                                             </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-nav">
+                                    </div> -->
+                                <!-- </div> -->
+                            <!-- </div> -->
+                            <!-- <div class="swiper-nav">
                                 <div class="swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide"
                                     aria-controls="swiper-wrapper-44d27e38cb140075"><svg
                                         xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17"
@@ -825,9 +851,9 @@
                                             </clipPath>
                                         </defs>
                                     </svg></div>
-                            </div>
-                        </div>
-                    </div>
+                            </div> -->
+                        <!-- </div> -->
+                    <!-- </div> -->
                     <div class="col-lg-5 col-xl-6 col-12">
                         <div class="place-map-img">
                             <img src="assets/images/nest_blueprint.jpg" alt="">
@@ -836,7 +862,7 @@
                 </div>
             </div>
         </section>
-        <section class="place-information-section padding-bottom">
+        <!-- <section class="place-information-section padding-bottom">
             <div class="container">
                 <div class="section-title">
                 <div class="row">
@@ -863,7 +889,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -914,7 +940,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1000,12 +1026,13 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-12">
+                        <p>Discover God’s Line: The Nest Eco City, an innovative project designed to transform Kerala’s urban landscape. This 500-kilometer canal, combined with eco-friendly residential communities, offers a sustainable solution to water scarcity and provides a model for future urban development. Learn how our project blends cutting-edge technology with the natural beauty of Kerala to create a thriving, self-sustaining city.</p>
                         <p>The Nest Holiday City offers a unique blend of luxury and comfort tailored for seniors. Our community features beautifully designed residences surrounded by lush greenery, creating a tranquil environment perfect for relaxation. We provide a wide range of amenities including 24/7 medical support, a fully equipped fitness center, and a variety of recreational activities to keep residents active and engaged. Our dedicated staff ensures personalized care, catering to the individual needs of each resident. Experience peace of mind and a vibrant community life at The Nest Holiday City.</p>
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="best-place-section padding-bottom">
+        </section> -->
+        <!-- <section class="best-place-section padding-bottom">
             <div class="tabs-wrapper">
                 <div class="container">
                     <div class="section-title">
@@ -1031,7 +1058,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1107,7 +1134,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1184,7 +1211,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1262,7 +1289,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1378,7 +1405,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1454,7 +1481,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1531,7 +1558,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1609,7 +1636,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1725,7 +1752,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1801,7 +1828,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1878,7 +1905,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -1956,7 +1983,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -2072,7 +2099,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -2148,7 +2175,7 @@
                                     <div class="product-card-inner">
                                         <div class="product-card-image">
                                             <a href="product.html">
-                                                <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                <img src="assets/images/GODSLINE2.jpeg" alt="">
                                             </a>
                                         </div>
                                         <div class="product-content">
@@ -3108,8 +3135,8 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="home-category-section padding-bottom">
+        </section> -->
+        <!-- <section class="home-category-section padding-bottom">
             <div class="container">
             <div class="section-title title-center">
                 <h2>Find your home place</h2>
@@ -3121,7 +3148,7 @@
                             <div class="category-itm-inner">
                                 <div class="category-image">
                                     <a href="#">
-                                        <img src="assets/images/NEST_RESOURT.jpg" alt="">
+                                        <img src="assets/images/GODSLINE1.jpeg" alt="">
                                     </a>
                                 </div>
                                 <div class="category-content">
@@ -3146,7 +3173,7 @@
                             <div class="category-itm-inner">
                                 <div class="category-image">
                                     <a href="#">
-                                        <img src="assets/images/HOUSE_1.jpg" alt="">
+                                        <img src="assets/images/GODSLINE2.jpg" alt="">
                                     </a>
                                 </div>
                                 <div class="category-content">
@@ -3172,7 +3199,7 @@
                             <div class="category-itm-inner">
                                 <div class="category-image">
                                     <a href="#">
-                                        <img src="assets/images/nest_farmhouse.jpg" alt="">
+                                        <img src="assets/images/GODSLINE3.jpeg" alt="">
                                     </a>
                                 </div>
                                 <div class="category-content">
@@ -3230,8 +3257,8 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="modern-houses-section padding-bottom">
+        </section> -->
+        <!-- <section class="modern-houses-section padding-bottom">
             <div class="container">
                 <div class="section-title">
                     <h2>Modern houses <br> for everyone</h2>
@@ -3241,7 +3268,7 @@
                 <div class="row row-gap align-items-center">
                     <div class="col-lg-8 col-12">
                         <div class="modern-houses-image">
-                            <img src="assets/images/HOUSE_2.jpg" alt="">
+                            <img src="assets/images/GODSLINE2.jpeg" alt="">
                             <div class="tooltip-custom" style="top: 15%;right: 6%;left: auto; ">
                                 <div class="tool-ic">+</div>
                             </div>
@@ -3257,7 +3284,7 @@
                                         <div class="product-card-inner">
                                             <div class="product-card-image">
                                                 <a href="product.html">
-/                                                    <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                    <img src="assets/images/GODSLINE2.jpeg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product-content">
@@ -3333,7 +3360,7 @@
                                         <div class="product-card-inner">
                                             <div class="product-card-image">
                                                 <a href="product.html">
-                                                    <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                    <img src="assets/images/GODSLINE2.jpeg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product-content">
@@ -3409,7 +3436,7 @@
                                         <div class="product-card-inner">
                                             <div class="product-card-image">
                                                 <a href="product.html">
-                                                    <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                    <img src="assets/images/GODSLINE2.jpeg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product-content">
@@ -3486,7 +3513,7 @@
                                         <div class="product-card-inner">
                                             <div class="product-card-image">
                                                 <a href="product.html">
-                                                    <img src="assets/images/HOUSE_2.jpg" alt="">
+                                                    <img src="assets/images/GODSLINE2.jpeg" alt="">
                                                 </a>
                                             </div>
                                             <div class="product-content">
@@ -3625,8 +3652,8 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="newsletter-section padding-top padding-bottom">
+        </section> -->
+        <!-- <section class="newsletter-section padding-top padding-bottom">
             <div class="container">
                 <div class="section-title">
                 <div class="row">
@@ -3676,8 +3703,8 @@
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="home-blog-section">
+        </section> -->
+        <!-- <section class="home-blog-section">
             <div class="container">
                 <div class="section-title">
                     <h2>Find your home place</h2>
@@ -3854,11 +3881,11 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </div>
     <footer class="site-footer">
         <div class="container">
-            <div class="footer-row">
+            <!-- <div class="footer-row">
                 <div class="footer-col footer-subscribe-col">
                     <div class="footer-widget">
                         <h4>Subscribe HolidayCity and get -20% off</h4>
@@ -3935,7 +3962,7 @@
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="footer-bottom">
                 <div class="row align-items-center">
                     <div class="col-12 col-md-6">

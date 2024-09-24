@@ -3,86 +3,121 @@
     <div class="wrapper">
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
-                <div class="section-title">
-                    <h2><center>God’s Line: The Nest Eco City</center></h2><br>
-                    <h3><center><span style="color: #A9A9A9;">
-                        </span></center></h3>
+            <div class="section-title">
+                    <h2><center><B> Sharing Responsibility for a Sustainable Future</B> </center></h2><br>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">"God’s Line: The Nest Eco City" is a groundbreaking sustainable urban development 
-                                project in Kerala, India. Spanning over 500 kilometers from Kasaragod to Thiruvananthapuram, this ambitious 
-                                project integrates a 20-meter-wide, 20-meter-deep canal that provides a continuous, sustainable water supply, 
-                                acting as both a water resource and a natural breakwater. Flanked by The Nest Eco City, a serene residential 
-                                community, the project seamlessly blends environmental stewardship with modern urban living.</p>
+                            <p style="text-align: justify;">God’s Line: The Nest Eco City is built on a robust <strong>Public-Private Partnership (PPP)</strong>
+                                 model, which ensures the balanced distribution of risks, responsibilities, and rewards between the public and 
+                                 private sectors. This approach brings together the strengths of <strong>government agencies</strong> and <strong>private investors</strong> to 
+                                 deliver a project that is financially sound, socially beneficial, and environmentally sustainable.
+
+
+                            </p><br><br>
+                            <p>
+                            By leveraging the expertise and resources of both the public and private sectors, we are able to maximize
+                             efficiency, innovation, and long-term success. The PPP model allows us to pool financial resources, share risks,
+                              and ensure that the project meets the highest standards of sustainability and resilience.
+
+                            </p>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
-                        <div class="about-us-content">
-                            <p style="text-align: justify;">
-                                </p>
-                                
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </section>
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2><b> A Visionary Project for Kerala’s Future </h2>
+                    <h2><b> A Collaborative Model for Risk Management and Innovation</b>  </h2>
                 </div>
-                <div class="row align-items-center">
+                <div class="row  row-reverse">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3>Future of Sustainable Urban Living</h3>
+                                <h3>Aspects of the PPP Model</h3>
+                                <ul style="margin-top:1.2em;">
+                                <li> <strong><h6>Government Support and Oversight: </h6></strong> <br> 
+                                    <p>
+                                    The project is backed by <strong>state and central government agencies</strong>, providing regulatory support, 
+                                    infrastructure funding, and long-term policy alignment. Government involvement ensures that the project
+                                     aligns with Kerala’s urban development goals, environmental regulations, and social welfare programs.
+                                      <strong>Public infrastructure grants</strong> and <strong>subsidies for sustainable development</strong> are used to offset the capital
+                                       costs of the project.
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;">
+                                    <strong><h6>Private Investment for Innovation: </h6></strong> <br>
+                                    <p>
+                                    <strong>Private investors</strong> bring financial resources, technological innovation, and operational expertise to the
+                                     project. By partnering with industry leaders, we are able to incorporate the latest advancements in smart
+                                      city infrastructure, renewable energy systems, and eco-friendly construction practices. Investors benefit
+                                       from stable, long-term returns through diversified revenue streams including real estate, tourism, and
+                                        utility services.
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;"> 
+                                    <strong><h6>Risk Management and Shared Responsibility: </h6></strong> <br>
+                                   <p>
+                                   The PPP model ensures that financial risks are distributed among multiple stakeholders, reducing the burden
+                                    on any single party. By sharing both the risks and rewards, the project is financially secure and more
+                                     resilient to economic fluctuations.
+
+                                   </p>
+                                </li>
+                                
+                                
+                            </ul>
                             </div>
-                            <p>The Canal: The God’s Line canal is the centerpiece of the project. 
-                                It channels water from Kerala’s hill stations and dams, ensuring year-round water availability for 
-                                agriculture, industry, and residential use. Designed as a natural solution to coastal erosion, the 
-                                canal also supports tourism, real estate, and other economic activities. </p><br>
-                                <p>The Nest Eco City: A planned eco-city developed along the canal, The Nest offers resort-style villas, 
-                                    retirement homes, healthcare facilities, and recreational spaces, all designed with sustainability in mind. 
-                                    Residents enjoy access to lush green parks, waterfronts, and cutting-edge technology such as smart homes 
-                                    powered by renewable energy.</p>
                         </div>
+                       
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
-                            <img src="assets/images/Image3.jpeg">
+                            <img src="assets/images/GODSLINE2.jpeg">
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center row-reverse">
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-left">
-                            <div class="section-title">
-                                <h3> <b> Key Features of the Project</b> </h3>
-                            </div>
-                            <!-- <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p> -->
-                                    <ul>
-                                        <li><b>500 km Canal: </b>A mineral water canal that provides a sustainable water supply and coastal protection.</li>
-                                        <li><b>Eco-City: </b>Residential development offering luxury villas, green spaces, and modern healthcare facilities.</li>
-                                        <li> <b>Smart Infrastructure: </b>Integration of AI, IoT, and blockchain technologies for resource management, infrastructure monitoring, and community engagement.</li>
-                                        <li><b>Sustainability: </b>A project built on the principles of environmental conservation, renewable energy use, and eco-friendly construction.</li>
-                                    </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-right">
-                            <img src="assets/images/GODSLINE4.jpg">
-                        </div>
-                    </div>
+                <div class="row">
+                
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Long-Term Operational Efficiency: </h6></strong> <br>
+                                   <p>
+                                   The PPP framework extends beyond the construction phase, ensuring ongoing operational support for 
+                                   maintenance, technology upgrades, and city management. Both public and private partners are involved in 
+                                   the long-term governance of the eco-city, maintaining its sustainability and efficiency.
+
+                                   </p>
+                                </li>
+
+                                
+                
                 </div>
+
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Benefits of the PPP Model: </h6></strong> <br>
+                                  <ul>
+                                    <li>- Risk Distribution</li>
+                                    <li>- Increased Innovation</li>
+                                    <li>- Government Backing</li>
+                                  </ul>
+                                </li>
+                </div>
+                
+                
+                   
+                </div>
+               
             </div>
+            
         </section>
-        <section class="aboutpage-btm-sec about-us-section padding-bottom">
+        <!-- <section class="aboutpage-btm-sec about-us-section padding-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-4">
@@ -138,7 +173,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </div>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">

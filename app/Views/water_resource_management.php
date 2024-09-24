@@ -3,26 +3,35 @@
     <div class="wrapper">
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
-                <div class="section-title">
-                    <h2><center>God’s Line: The Nest Eco City</center></h2><br>
-                    <h3><center><span style="color: #A9A9A9;">
-                        </span></center></h3>
+            <div class="section-title">
+                    <h2><center><B> Ensuring a Sustainable Water Supply for Kerala’s Communities</B> </center></h2><br>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">"God’s Line: The Nest Eco City" is a groundbreaking sustainable urban development 
-                                project in Kerala, India. Spanning over 500 kilometers from Kasaragod to Thiruvananthapuram, this ambitious 
-                                project integrates a 20-meter-wide, 20-meter-deep canal that provides a continuous, sustainable water supply, 
-                                acting as both a water resource and a natural breakwater. Flanked by The Nest Eco City, a serene residential 
-                                community, the project seamlessly blends environmental stewardship with modern urban living.</p>
+                            <p style="text-align: justify;">Water scarcity is one of the most pressing global challenges, and Kerala is 
+                                no exception. To address this issue, God’s Line: The Nest Eco City has developed a comprehensive water resource
+                                 management system built around the <strong>God’s Line Canal</strong>, which channels water from Kerala’s hill stations and dams,
+                                  ensuring a year-round water supply for agriculture, industry, and residential needs.
+
+
+                            </p><br><br>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
+                    <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">
+                            <h4><center>Long-Term Water Security                            </center></h4>
+                            <div style="margin-top:1em;">
+                                <p>
+                                The combination of smart water management, rainwater harvesting, and greywater recycling ensures that God’s Line
+                                 will not only meet the immediate water needs of the community but will also remain sustainable in the face of 
+                                 future climate change challenges. Our water management strategy helps protect Kerala from droughts, ensuring a
+                                  reliable water supply for future generations.
+
+
+
                                 </p>
-                                
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -31,58 +40,98 @@
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2><b> A Visionary Project for Kerala’s Future </h2>
+                    <h2><b> Preserving Biodiversity and Promoting Eco-Friendly Practices </b>  </h2>
                 </div>
-                <div class="row align-items-center">
+                <div class="row  row-reverse">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3>Future of Sustainable Urban Living</h3>
+                                <h3>Key Water Resource Management Features</h3>
+                                <ul style="margin-top:1.2em;">
+                                <li> <strong><h6>Smart Water Management: </h6></strong> <br> 
+                                    <p>
+                                    The canal is equipped with <strong>AI-powered water management systems</strong> that monitor water levels, 
+                                    predict demand, and regulate flow to ensure that water is distributed efficiently. This system allows 
+                                    for real-time adjustments, minimizing water loss and preventing overuse.
+
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;">
+                                    <strong><h6>Rainwater Harvesting: </h6></strong> <br>
+                                    <p>
+                                    Every residential and commercial building in The Nest Eco City is equipped with <strong>rainwater harvesting systems</strong>.
+                                     These systems collect and store rainwater, which is then filtered and used for non-potable purposes like 
+                                     irrigation and sanitation, reducing the strain on the main water supply.
+
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;"> 
+                                    <strong><h6>Greywater Recycling: </h6></strong> <br>
+                                   <p>
+                                   Greywater recycling systems will be installed to collect wastewater from showers, sinks, and laundry, treat
+                                    it, and reuse it for purposes such as landscaping and flushing toilets. This reduces overall water 
+                                    consumption and conserves valuable drinking water.
+
+
+                                   </p>
+                                </li>
+                                
+                                
+                            </ul>
                             </div>
-                            <p>The Canal: The God’s Line canal is the centerpiece of the project. 
-                                It channels water from Kerala’s hill stations and dams, ensuring year-round water availability for 
-                                agriculture, industry, and residential use. Designed as a natural solution to coastal erosion, the 
-                                canal also supports tourism, real estate, and other economic activities. </p><br>
-                                <p>The Nest Eco City: A planned eco-city developed along the canal, The Nest offers resort-style villas, 
-                                    retirement homes, healthcare facilities, and recreational spaces, all designed with sustainability in mind. 
-                                    Residents enjoy access to lush green parks, waterfronts, and cutting-edge technology such as smart homes 
-                                    powered by renewable energy.</p>
                         </div>
+                       
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
-                            <img src="assets/images/Image3.jpeg">
+                            <img src="assets/images/WATER_MANAGEMENT.jpg">
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center row-reverse">
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-left">
-                            <div class="section-title">
-                                <h3> <b> Key Features of the Project</b> </h3>
-                            </div>
-                            <!-- <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p> -->
-                                    <ul>
-                                        <li><b>500 km Canal: </b>A mineral water canal that provides a sustainable water supply and coastal protection.</li>
-                                        <li><b>Eco-City: </b>Residential development offering luxury villas, green spaces, and modern healthcare facilities.</li>
-                                        <li> <b>Smart Infrastructure: </b>Integration of AI, IoT, and blockchain technologies for resource management, infrastructure monitoring, and community engagement.</li>
-                                        <li><b>Sustainability: </b>A project built on the principles of environmental conservation, renewable energy use, and eco-friendly construction.</li>
-                                    </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-right">
-                            <img src="assets/images/GODSLINE4.jpg">
-                        </div>
-                    </div>
+                <div class="row">
+                
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Flood Control and Stormwater Management: </h6></strong> <br>
+                                   <p>
+                                   The canal also plays a vital role in flood control by diverting excess water during heavy rainfall to 
+                                   specially designed reservoirs. These reservoirs prevent urban flooding and help recharge groundwater levels.
+                                    Additionally,<strong> permeable pavements</strong> and <strong>green roofs</strong> are used throughout the city to absorb rainwater and 
+                                    reduce runoff.
+
+
+                                   </p>
+                                </li>
+
+                                
+                
                 </div>
+
+                <div class="col-md-6">
+                <li style="margin-top:1.2em;">
+                                    <strong><h6>Water Conservation Education: </h6></strong> <br>
+                                   <p>
+                                   Water conservation is embedded in the culture of The Nest Eco City. Residents are encouraged to adopt 
+                                   water-saving habits through educational programs that highlight the importance of preserving water resources.
+                                    Smart water meters in every home provide real-time feedback on water usage, helping residents manage
+                                     consumption effectively.
+
+
+
+                                   </p>
+                                </li>
+                </div>
+                
+                
+                   
+                </div>
+               
             </div>
+            
         </section>
-        <section class="aboutpage-btm-sec about-us-section padding-bottom">
+        <!-- <section class="aboutpage-btm-sec about-us-section padding-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-4">
@@ -138,7 +187,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </div>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">

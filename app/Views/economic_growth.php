@@ -3,26 +3,33 @@
     <div class="wrapper">
         <section class="about-us-page padding-bottom padding-top">
             <div class="container">
-                <div class="section-title">
-                    <h2><center>God’s Line: The Nest Eco City</center></h2><br>
-                    <h3><center><span style="color: #A9A9A9;">
-                        </span></center></h3>
+            <div class="section-title">
+                    <h2><center><B> Driving Economic Growth Through Innovation and Sustainability</B> </center></h2><br>
                 </div>
                 <div class="row">
                     <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">"God’s Line: The Nest Eco City" is a groundbreaking sustainable urban development 
-                                project in Kerala, India. Spanning over 500 kilometers from Kasaragod to Thiruvananthapuram, this ambitious 
-                                project integrates a 20-meter-wide, 20-meter-deep canal that provides a continuous, sustainable water supply, 
-                                acting as both a water resource and a natural breakwater. Flanked by The Nest Eco City, a serene residential 
-                                community, the project seamlessly blends environmental stewardship with modern urban living.</p>
+                            <p style="text-align: justify;">God’s Line: The Nest Eco City is a powerful engine for regional economic growth,
+                                 designed to boost Kerala’s GDP and contribute to the state’s overall development. By promoting sustainable 
+                                 industries, creating jobs, and attracting investment, the eco-city will play a key role in Kerala’s future 
+                                 economic landscape.
+
+
+                            </p><br><br>
                         </div>
                     </div>
-                    <div class="col-md-6 col-12">
+                    <div class="col-md-12 col-12">
                         <div class="about-us-content">
-                            <p style="text-align: justify;">
+                            <h4><center>Economic Ripple Effect</center></h4>
+                            <div style="margin-top:1em;">
+                                <p>
+                                The economic impact of God’s Line: The Nest Eco City extends beyond the project itself. By creating jobs, 
+                                attracting investment, and promoting eco-tourism, the project will drive growth across multiple sectors, 
+                                benefiting local businesses, boosting regional infrastructure, and improving public services.
+
+
                                 </p>
-                                
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -31,58 +38,60 @@
         <section class="about-our-shop-section padding-bottom">
             <div class="container">
                 <div class="section-title text-center">
-                    <h2><b> A Visionary Project for Kerala’s Future </h2>
+                    <h2><b> Improving Quality of Life for Residents and Local Communities </b>  </h2>
                 </div>
-                <div class="row align-items-center">
+                <div class="row  row-reverse">
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-left">
                             <div class="section-title">
-                                <h3>Future of Sustainable Urban Living</h3>
+                                <h3>Drivers of Economic Growth</h3>
+                                <ul style="margin-top:1.2em;">
+                                <li> <strong><h6>Tourism and Hospitality Industry: </h6></strong> <br> 
+                                    <p>
+                                    With its unique blend of luxury and sustainability, The Nest Eco City is set to become a top destination 
+                                    for eco-tourism in India. The city’s resorts, hotels, and recreational facilities will attract domestic and
+                                     international visitors, contributing significantly to Kerala’s tourism revenue. Eco-tourism activities 
+                                     such as guided canal tours, nature walks, and cultural experiences will further drive growth in this sector.
+
+                                    </p>
+                                </li>
+                                <li style="margin-top:1.2em;">
+                                    <strong><h6>Real Estate Development: </h6></strong> <br>
+                                   <p>
+                                   The sale of luxury villas, affordable housing units, and commercial properties will generate significant 
+                                   revenue for the project and the region. The eco-city’s prime location and sustainable living model make it
+                                    an attractive destination for both domestic and international buyers and investors, boosting the real estate
+                                     market in Kerala.
+
+                                   </p>
+                                </li>
+                                <li style="margin-top:1.2em;"> 
+                                    <strong><h6>Commercial and Retail Opportunities: </h6></strong> <br>
+                                   <p>
+                                   The eco-city will include <strong>commercial zones</strong> and <strong>retail centers</strong> that create 
+                                   opportunities for local businesses and entrepreneurs. These areas will house shops, restaurants, and offices,
+                                    generating additional economic activity and creating jobs in the retail and service sectors.
+
+                                   </p>
+                                </li>
+                                
+                                
+                            </ul>
                             </div>
-                            <p>The Canal: The God’s Line canal is the centerpiece of the project. 
-                                It channels water from Kerala’s hill stations and dams, ensuring year-round water availability for 
-                                agriculture, industry, and residential use. Designed as a natural solution to coastal erosion, the 
-                                canal also supports tourism, real estate, and other economic activities. </p><br>
-                                <p>The Nest Eco City: A planned eco-city developed along the canal, The Nest offers resort-style villas, 
-                                    retirement homes, healthcare facilities, and recreational spaces, all designed with sustainability in mind. 
-                                    Residents enjoy access to lush green parks, waterfronts, and cutting-edge technology such as smart homes 
-                                    powered by renewable energy.</p>
                         </div>
+                       
                     </div>
                     <div class="col-md-6 col-12">
                         <div class="abt-shp-column-right">
-                            <img src="assets/images/Image3.jpeg">
+                            <img src="assets/images/GODSLINE3.jpeg">
                         </div>
                     </div>
                 </div>
-                <div class="row align-items-center row-reverse">
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-left">
-                            <div class="section-title">
-                                <h3> <b> Key Features of the Project</b> </h3>
-                            </div>
-                            <!-- <p> Inspired by my experiences and the need for social connection in retirement, we’re launching The Nest—a community 
-                                designed to offer retirees a vibrant, engaging lifestyle. This project brings the warmth of an extended family to retirement 
-                                living.</p><br>
-                                <p>We aim to support this and other initiatives by integrating Aranea Platform with our ecosystem. Our goal is to foster growth 
-                                    and collaboration among :</p> -->
-                                    <ul>
-                                        <li><b>500 km Canal: </b>A mineral water canal that provides a sustainable water supply and coastal protection.</li>
-                                        <li><b>Eco-City: </b>Residential development offering luxury villas, green spaces, and modern healthcare facilities.</li>
-                                        <li> <b>Smart Infrastructure: </b>Integration of AI, IoT, and blockchain technologies for resource management, infrastructure monitoring, and community engagement.</li>
-                                        <li><b>Sustainability: </b>A project built on the principles of environmental conservation, renewable energy use, and eco-friendly construction.</li>
-                                    </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-12">
-                        <div class="abt-shp-column-right">
-                            <img src="assets/images/GODSLINE4.jpg">
-                        </div>
-                    </div>
-                </div>
+                
             </div>
+            
         </section>
-        <section class="aboutpage-btm-sec about-us-section padding-bottom">
+        <!-- <section class="aboutpage-btm-sec about-us-section padding-bottom">
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-6 col-md-4">
@@ -138,7 +147,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
     </div>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">
