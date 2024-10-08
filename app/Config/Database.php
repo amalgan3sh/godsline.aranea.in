@@ -27,9 +27,9 @@ class Database extends Config
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
-        'username'     => 'survey_aranea',
-        'password'     => 'survey_aranea',
-        'database'     => 'survey_aranea',
+        'username'     => 'root',
+        'password'     => '',
+        'database'     => 'aranea_holidaycity_db',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
@@ -41,7 +41,7 @@ class Database extends Config
         'compress'     => false,
         'strictOn'     => false,
         'failover'     => [],
-        'port'         => 3306,
+        'port'         => 3307,
         'numberNative' => false,
         'dateFormat'   => [
             'date'     => 'Y-m-d',

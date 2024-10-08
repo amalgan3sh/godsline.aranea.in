@@ -140,6 +140,95 @@
             </div>
         </section> -->
     </div>
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-row" style="border-top: 1px solid var(--second-color);padding-top:1.5em;">
+                <div class="footer-col footer-subscribe-col">
+                    <div class="footer-widget">
+                        <h4>Subscribe to Our Newsletter:</h4>
+                        <p>Stay updated on the latest developments, events, and opportunities from God’s Line: The Nest Eco City.
+                        </p>
+                        <form class="footer-subscribe-form" action="<?= site_url('subscription/subscribe'); ?>" method="post">
+                            <div class="input-wrapper">
+                                <input type="email" placeholder="Type your address email..." id="email" name="email">
+                                <button type="submit" class="btn-subscibe">
+                                    Subscription <svg xmlns="http://www.w3.org/2000/svg" width="6" height="6"
+                                        viewBox="0 0 6 6" fill="none">
+                                        <path fill-rule="evenodd" clip-rule="evenodd"
+                                            d="M0.116348 5.76479C-0.0136244 5.63481 -0.0136243 5.42409 0.116348 5.29411L4.72561 0.684852L1.76376 0.6848C1.57995 0.684797 1.43095 0.535788 1.43095 0.351979C1.43096 0.16817 1.57997 0.0191656 1.76377 0.019169L5.52909 0.0192342C5.7129 0.0192372 5.8619 0.168239 5.8619 0.352044L5.86197 4.11736C5.86197 4.30117 5.71296 4.45018 5.52916 4.45018C5.34535 4.45018 5.19634 4.30118 5.19633 4.11737L5.19628 1.15552L0.587021 5.76479C0.457048 5.89476 0.246321 5.89476 0.116348 5.76479Z"
+                                            fill="#FBFBFB"></path>
+                                    </svg>
+                                </button>
+                            </div>
+                            <div class="checkbox-custom">
+                                <input type="checkbox" id="subscibecheck">
+                                <label for="subscibecheck">
+                                    Contact Us for more details and inquiry
+                                </label>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="footer-col footer-link footer-link-1">
+                    <div class="footer-widget">
+                        <h4> Explore Our City </h4>
+                        <ul>
+                            <li><a href="home.html">Home</a></li>
+                            <li><a href="about-the-project.html">About the Project</a></li>
+                            <li><a href="project-features.html">Project Features</a></li>
+                            <li><a href="sustainability.html">Sustainability</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-col footer-link footer-link-2">
+                    <div class="footer-widget">
+                        <h4> Connect With Us </h4>
+                        <ul>
+                        <li><a href="investment-opportunities.html">Investment Opportunities</a></li>
+                            <li><a href="social-impact.html">Social Impact</a></li>
+                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <!-- <li><a href="my-account.html">My Profile</a></li> -->
+                        </ul>
+                    </div>
+                </div>
+                <!-- <div class="footer-col footer-link footer-link-3">
+                    <div class="footer-widget footer-social-links">
+                        <h4>Share</h4>
+                        <ul>
+                            <li>
+                                <a href="https://www.instagram.com/">
+                                    Instagram
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/messenger/">
+                                    Facebook
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.twitter.com/">
+                                    Twitter
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/">
+                                    Youtube
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div> -->
+            </div>
+            <div class="footer-bottom">
+                <div class="row align-items-center">
+                    <div class="col-12 col-md-6">
+                        <p>© 2022 <b>God’s Line: The Nest Eco Citys</b>. All rights reserved.</p>
+                        <i>Developed by Aranea.in</i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
     <!-- Mobile menu -->
     <div class="mobile-menu-wrapper">
         <div class="menu-close-icon">
@@ -153,7 +242,7 @@
             <ul>
                 <li class="mobile-item has-children">
                     <a href="#" class="acnav-label">
-                        Shop All
+                        About Us
                         <svg class="menu-open-arrow" xmlns="http://www.w3.org/2000/svg" width="20" height="11"
                             viewBox="0 0 20 11">
                             <path fill="#24272a"
@@ -171,28 +260,20 @@
                         <li class="menu-h-link">
                             <ul>
                                 <li>
-                                    <a href="product.html">NEW</a>
+                                    <a href="overview">Overview</a>
                                 </li>
                                 <li>
-                                    <a href="product.html">TOP TEN FEDORAS</a>
+                                    <a href="vision_and_mission">Vision & Mission</a>
                                 </li>
                                 <li>
-                                    <a href="product.html">RESERVED</a>
+                                    <a href="strategic_importance">Strategic Importance</a>
                                 </li>
-                                <li>
-                                    <a href="product.html">LAST CHANCE</a>
-                                </li>
-                                <li>
-                                    <a href="product.html">OUTLET</a>
-                                </li>
-                                <li>
-                                    <a href="product.html">NAME COLLABORATION</a>
-                                </li>
+                                
                             </ul>
                         </li>
-                        <li class="menu-h-link menu-h-drop has-children">
+                        <!-- <li class="menu-h-link menu-h-drop has-children">
                             <a href="#" class="acnav-label">
-                                <span>Products</span>
+                                <span>Features</span>
                                 <svg class="menu-open-arrow" xmlns="http://www.w3.org/2000/svg" width="20" height="11"
                                     viewBox="0 0 20 11">
                                     <path fill="#24272a"
@@ -208,35 +289,17 @@
                             </a>
                             <ul class="acnav-list">
                                 <li>
-                                    <a href="product.html">Fedoras</a>
+                                    <a href="canal_system">Canal System</a>
                                 </li>
                                 <li>
-                                    <a href="product.html">Flat Caps</a>
+                                    <a href="nest_eco_city">Nest Eco City</a>
                                 </li>
                                 <li>
-                                    <a href="product.html">Straws</a>
-                                </li>
-                                <li>
-                                    <a href="product.html">Cold Weather</a>
-                                </li>
-                                <li>
-                                    <a href="product.html">Baseball</a>
-                                </li>
-                                <li>
-                                    <a href="product.html">Hat Care</a>
-                                </li>
-                                <li>
-                                    <a href="product.html">Facemasks</a>
-                                </li>
-                                <li>
-                                    <a href="product.html">Accessories</a>
-                                </li>
-                                <li>
-                                    <a href="product.html">Gift Cards</a>
+                                    <a href="technology_and_innovation">Technology & Innovation</a>
                                 </li>
                             </ul>
-                        </li>
-                        <li class="menu-h-link menu-h-drop has-children">
+                        </li> -->
+                        <!-- <li class="menu-h-link menu-h-drop has-children">
                             <a href="#" class="acnav-label">
                                 <span>The Edit</span>
                                 <svg class="menu-open-arrow" xmlns="http://www.w3.org/2000/svg" width="20" height="11"
@@ -266,12 +329,12 @@
                                     <a href="product.html">Feminine</a>
                                 </li>
                             </ul>
-                        </li>
+                        </li> -->
                     </ul>
                 </li>
                 <li class="mobile-item has-children">
                     <a href="#" class="acnav-label">
-                        Collection
+                        Features
                         <svg class="menu-open-arrow" xmlns="http://www.w3.org/2000/svg" width="20" height="11"
                             viewBox="0 0 20 11">
                             <path fill="#24272a"
@@ -289,26 +352,18 @@
                         <li class="menu-h-link">
                             <ul>
                                 <li>
-                                    <a href="product.html">NEW</a>
+                                    <a href="canal_system">Canal System</a>
                                 </li>
                                 <li>
-                                    <a href="product.html">TOP TEN FEDORAS</a>
+                                    <a href="nest_eco_system">Nest Eco System</a>
                                 </li>
                                 <li>
-                                    <a href="product.html">RESERVED</a>
+                                    <a href="technology_innovation">Technology & Innovation</a>
                                 </li>
-                                <li>
-                                    <a href="product.html">LAST CHANCE</a>
-                                </li>
-                                <li>
-                                    <a href="product.html">OUTLET</a>
-                                </li>
-                                <li>
-                                    <a href="product.html">NAME COLLABORATION</a>
-                                </li>
+                                
                             </ul>
                         </li>
-                        <li class="menu-h-link menu-h-drop has-children">
+                        <!-- <li class="menu-h-link menu-h-drop has-children">
                             <a href="#" class="acnav-label">
                                 <span>Products</span>
                                 <svg class="menu-open-arrow" xmlns="http://www.w3.org/2000/svg" width="20" height="11"
@@ -353,15 +408,145 @@
                                     <a href="product.html">Gift Cards</a>
                                 </li>
                             </ul>
+                        </li> -->
+                    </ul>
+                </li>
+                <li class="mobile-item has-children">
+                <a href="#" class="acnav-label">
+                        Sustainability
+                        <svg class="menu-open-arrow" xmlns="http://www.w3.org/2000/svg" width="20" height="11"
+                            viewBox="0 0 20 11">
+                            <path fill="#24272a"
+                                d="M.268 1.076C.373.918.478.813.584.76l.21.474c.79.684 2.527 2.158 5.21 4.368 2.738 2.21 4.159 3.316 4.264 3.316.474-.053 1.158-.369 1.947-1.053.842-.631 1.632-1.42 2.474-2.368.895-.948 1.737-1.842 2.632-2.58.842-.789 1.578-1.262 2.105-1.42l.316.684c0 .21-.106.474-.316.737-.053.21-.263.421-.474.579-.053.052-.316.21-.737.474l-.526.368c-.421.263-1.105.947-2.158 2l-1.105 1.053-2.053 1.947c-1 .947-1.579 1.421-1.842 1.421-.263 0-.684-.263-1.158-.895-.526-.631-.842-1-1.052-1.105l-.737-.579c-.316-.316-.527-.474-.632-.474l-5.42-4.315L.267 2.339l-.105-.421-.053-.369c0-.157.053-.315.158-.473z">
+                            </path>
+                        </svg>
+                        <svg class="close-menu-ioc" xmlns="http://www.w3.org/2000/svg" width="20" height="18"
+                            viewBox="0 0 20 18">
+                            <path fill="#24272a"
+                                d="M19.95 16.75l-.05-.4-1.2-1-5.2-4.2c-.1-.05-.3-.2-.6-.5l-.7-.55c-.15-.1-.5-.45-1-1.1l-.1-.1c.2-.15.4-.35.6-.55l1.95-1.85 1.1-1c1-1 1.7-1.65 2.1-1.9l.5-.35c.4-.25.65-.45.75-.45.2-.15.45-.35.65-.6s.3-.5.3-.7l-.3-.65c-.55.2-1.2.65-2.05 1.35-.85.75-1.65 1.55-2.5 2.5-.8.9-1.6 1.65-2.4 2.3-.8.65-1.4.95-1.9 1-.15 0-1.5-1.05-4.1-3.2C3.1 2.6 1.45 1.2.7.55L.45.1c-.1.05-.2.15-.3.3C.05.55 0 .7 0 .85l.05.35.05.4 1.2 1 5.2 4.15c.1.05.3.2.6.5l.7.6c.15.1.5.45 1 1.1l.1.1c-.2.15-.4.35-.6.55l-1.95 1.85-1.1 1c-1 1-1.7 1.65-2.1 1.9l-.5.35c-.4.25-.65.45-.75.45-.25.15-.45.35-.65.6-.15.3-.25.55-.25.75l.3.65c.55-.2 1.2-.65 2.05-1.35.85-.75 1.65-1.55 2.5-2.5.8-.9 1.6-1.65 2.4-2.3.8-.65 1.4-.95 1.9-1 .15 0 1.5 1.05 4.1 3.2 2.6 2.15 4.3 3.55 5.05 4.2l.2.45c.1-.05.2-.15.3-.3.1-.15.15-.3.15-.45z">
+                            </path>
+                        </svg>
+                    </a>
+                    <ul class="mobile_menu_inner acnav-list">
+                    <li class="menu-h-link">
+                            <ul>
+                                <li>
+                                    <a href="renewable_energy">Renewable Energy</a>
+                                </li>
+                                <li>
+                                    <a href="water_resource_management">Water Resource Management</a>
+                                </li>
+                                <li>
+                                    <a href="environmental_protection">Environmental Protection</a>
+                                </li>
+                                
+                            </ul>
                         </li>
                     </ul>
                 </li>
-                <li class="mobile-item">
-                    <a href="about.html">About Us</a>
+                <li class="mobile-item has-children">
+                <a href="#" class="acnav-label">
+                        Investment
+                        <svg class="menu-open-arrow" xmlns="http://www.w3.org/2000/svg" width="20" height="11"
+                            viewBox="0 0 20 11">
+                            <path fill="#24272a"
+                                d="M.268 1.076C.373.918.478.813.584.76l.21.474c.79.684 2.527 2.158 5.21 4.368 2.738 2.21 4.159 3.316 4.264 3.316.474-.053 1.158-.369 1.947-1.053.842-.631 1.632-1.42 2.474-2.368.895-.948 1.737-1.842 2.632-2.58.842-.789 1.578-1.262 2.105-1.42l.316.684c0 .21-.106.474-.316.737-.053.21-.263.421-.474.579-.053.052-.316.21-.737.474l-.526.368c-.421.263-1.105.947-2.158 2l-1.105 1.053-2.053 1.947c-1 .947-1.579 1.421-1.842 1.421-.263 0-.684-.263-1.158-.895-.526-.631-.842-1-1.052-1.105l-.737-.579c-.316-.316-.527-.474-.632-.474l-5.42-4.315L.267 2.339l-.105-.421-.053-.369c0-.157.053-.315.158-.473z">
+                            </path>
+                        </svg>
+                        <svg class="close-menu-ioc" xmlns="http://www.w3.org/2000/svg" width="20" height="18"
+                            viewBox="0 0 20 18">
+                            <path fill="#24272a"
+                                d="M19.95 16.75l-.05-.4-1.2-1-5.2-4.2c-.1-.05-.3-.2-.6-.5l-.7-.55c-.15-.1-.5-.45-1-1.1l-.1-.1c.2-.15.4-.35.6-.55l1.95-1.85 1.1-1c1-1 1.7-1.65 2.1-1.9l.5-.35c.4-.25.65-.45.75-.45.2-.15.45-.35.65-.6s.3-.5.3-.7l-.3-.65c-.55.2-1.2.65-2.05 1.35-.85.75-1.65 1.55-2.5 2.5-.8.9-1.6 1.65-2.4 2.3-.8.65-1.4.95-1.9 1-.15 0-1.5-1.05-4.1-3.2C3.1 2.6 1.45 1.2.7.55L.45.1c-.1.05-.2.15-.3.3C.05.55 0 .7 0 .85l.05.35.05.4 1.2 1 5.2 4.15c.1.05.3.2.6.5l.7.6c.15.1.5.45 1 1.1l.1.1c-.2.15-.4.35-.6.55l-1.95 1.85-1.1 1c-1 1-1.7 1.65-2.1 1.9l-.5.35c-.4.25-.65.45-.75.45-.25.15-.45.35-.65.6-.15.3-.25.55-.25.75l.3.65c.55-.2 1.2-.65 2.05-1.35.85-.75 1.65-1.55 2.5-2.5.8-.9 1.6-1.65 2.4-2.3.8-.65 1.4-.95 1.9-1 .15 0 1.5 1.05 4.1 3.2 2.6 2.15 4.3 3.55 5.05 4.2l.2.45c.1-.05.2-.15.3-.3.1-.15.15-.3.15-.45z">
+                            </path>
+                        </svg>
+                    </a>
+                    <ul class="mobile_menu_inner acnav-list">
+                    <li class="menu-h-link">
+                            <ul>
+                                <li>
+                                    <a href="why_invest">Why Invest</a>
+                                </li>
+                                <li>
+                                    <a href="financial_projections">Financial Projections</a>
+                                </li>
+                                <li>
+                                    <a href="investor_benefits">Investor Benefits</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                    </ul>
                 </li>
-                <li class="mobile-item">
+                <li class="mobile-item has-children">
+                <a href="#" class="acnav-label">
+                        Social Impact
+                        <svg class="menu-open-arrow" xmlns="http://www.w3.org/2000/svg" width="20" height="11"
+                            viewBox="0 0 20 11">
+                            <path fill="#24272a"
+                                d="M.268 1.076C.373.918.478.813.584.76l.21.474c.79.684 2.527 2.158 5.21 4.368 2.738 2.21 4.159 3.316 4.264 3.316.474-.053 1.158-.369 1.947-1.053.842-.631 1.632-1.42 2.474-2.368.895-.948 1.737-1.842 2.632-2.58.842-.789 1.578-1.262 2.105-1.42l.316.684c0 .21-.106.474-.316.737-.053.21-.263.421-.474.579-.053.052-.316.21-.737.474l-.526.368c-.421.263-1.105.947-2.158 2l-1.105 1.053-2.053 1.947c-1 .947-1.579 1.421-1.842 1.421-.263 0-.684-.263-1.158-.895-.526-.631-.842-1-1.052-1.105l-.737-.579c-.316-.316-.527-.474-.632-.474l-5.42-4.315L.267 2.339l-.105-.421-.053-.369c0-.157.053-.315.158-.473z">
+                            </path>
+                        </svg>
+                        <svg class="close-menu-ioc" xmlns="http://www.w3.org/2000/svg" width="20" height="18"
+                            viewBox="0 0 20 18">
+                            <path fill="#24272a"
+                                d="M19.95 16.75l-.05-.4-1.2-1-5.2-4.2c-.1-.05-.3-.2-.6-.5l-.7-.55c-.15-.1-.5-.45-1-1.1l-.1-.1c.2-.15.4-.35.6-.55l1.95-1.85 1.1-1c1-1 1.7-1.65 2.1-1.9l.5-.35c.4-.25.65-.45.75-.45.2-.15.45-.35.65-.6s.3-.5.3-.7l-.3-.65c-.55.2-1.2.65-2.05 1.35-.85.75-1.65 1.55-2.5 2.5-.8.9-1.6 1.65-2.4 2.3-.8.65-1.4.95-1.9 1-.15 0-1.5-1.05-4.1-3.2C3.1 2.6 1.45 1.2.7.55L.45.1c-.1.05-.2.15-.3.3C.05.55 0 .7 0 .85l.05.35.05.4 1.2 1 5.2 4.15c.1.05.3.2.6.5l.7.6c.15.1.5.45 1 1.1l.1.1c-.2.15-.4.35-.6.55l-1.95 1.85-1.1 1c-1 1-1.7 1.65-2.1 1.9l-.5.35c-.4.25-.65.45-.75.45-.25.15-.45.35-.65.6-.15.3-.25.55-.25.75l.3.65c.55-.2 1.2-.65 2.05-1.35.85-.75 1.65-1.55 2.5-2.5.8-.9 1.6-1.65 2.4-2.3.8-.65 1.4-.95 1.9-1 .15 0 1.5 1.05 4.1 3.2 2.6 2.15 4.3 3.55 5.05 4.2l.2.45c.1-.05.2-.15.3-.3.1-.15.15-.3.15-.45z">
+                            </path>
+                        </svg>
+                    </a>
+                    <ul>
+                    <li class="menu-h-link">
+                            <ul class="mobile_menu_inner acnav-list">
+                                <li>
+                                    <a href="job_creation">Job Creation</a>
+                                </li>
+                                <li>
+                                    <a href="community_development">Community Development</a>
+                                </li>
+                                <li>
+                                    <a href="economic_growth">Economic Growth</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="mobile-item has-children">
+                <a href="#" class="acnav-label">
+                        Collaboration
+                        <svg class="menu-open-arrow" xmlns="http://www.w3.org/2000/svg" width="20" height="11"
+                            viewBox="0 0 20 11">
+                            <path fill="#24272a"
+                                d="M.268 1.076C.373.918.478.813.584.76l.21.474c.79.684 2.527 2.158 5.21 4.368 2.738 2.21 4.159 3.316 4.264 3.316.474-.053 1.158-.369 1.947-1.053.842-.631 1.632-1.42 2.474-2.368.895-.948 1.737-1.842 2.632-2.58.842-.789 1.578-1.262 2.105-1.42l.316.684c0 .21-.106.474-.316.737-.053.21-.263.421-.474.579-.053.052-.316.21-.737.474l-.526.368c-.421.263-1.105.947-2.158 2l-1.105 1.053-2.053 1.947c-1 .947-1.579 1.421-1.842 1.421-.263 0-.684-.263-1.158-.895-.526-.631-.842-1-1.052-1.105l-.737-.579c-.316-.316-.527-.474-.632-.474l-5.42-4.315L.267 2.339l-.105-.421-.053-.369c0-.157.053-.315.158-.473z">
+                            </path>
+                        </svg>
+                        <svg class="close-menu-ioc" xmlns="http://www.w3.org/2000/svg" width="20" height="18"
+                            viewBox="0 0 20 18">
+                            <path fill="#24272a"
+                                d="M19.95 16.75l-.05-.4-1.2-1-5.2-4.2c-.1-.05-.3-.2-.6-.5l-.7-.55c-.15-.1-.5-.45-1-1.1l-.1-.1c.2-.15.4-.35.6-.55l1.95-1.85 1.1-1c1-1 1.7-1.65 2.1-1.9l.5-.35c.4-.25.65-.45.75-.45.2-.15.45-.35.65-.6s.3-.5.3-.7l-.3-.65c-.55.2-1.2.65-2.05 1.35-.85.75-1.65 1.55-2.5 2.5-.8.9-1.6 1.65-2.4 2.3-.8.65-1.4.95-1.9 1-.15 0-1.5-1.05-4.1-3.2C3.1 2.6 1.45 1.2.7.55L.45.1c-.1.05-.2.15-.3.3C.05.55 0 .7 0 .85l.05.35.05.4 1.2 1 5.2 4.15c.1.05.3.2.6.5l.7.6c.15.1.5.45 1 1.1l.1.1c-.2.15-.4.35-.6.55l-1.95 1.85-1.1 1c-1 1-1.7 1.65-2.1 1.9l-.5.35c-.4.25-.65.45-.75.45-.25.15-.45.35-.65.6-.15.3-.25.55-.25.75l.3.65c.55-.2 1.2-.65 2.05-1.35.85-.75 1.65-1.55 2.5-2.5.8-.9 1.6-1.65 2.4-2.3.8-.65 1.4-.95 1.9-1 .15 0 1.5 1.05 4.1 3.2 2.6 2.15 4.3 3.55 5.05 4.2l.2.45c.1-.05.2-.15.3-.3.1-.15.15-.3.15-.45z">
+                            </path>
+                        </svg>
+                    </a>
+                    <ul>
+                    <li class="menu-h-link">
+                            <ul class="mobile_menu_inner acnav-list">
+                                <li>
+                                    <a href="strategic_partners">Strategic Partners</a>
+                                </li>
+                                <li>
+                                    <a href="public_private_partnerships">Public-Private Partnerships(PPP)</a>
+                                </li>
+                                <li>
+                                    <a href="international_collaboration">International Collaboration</a>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                
+                <!-- <li class="mobile-item">
                     <a href="faqs.html">FAQs</a>
-                </li>
+                </li> -->
                 <li class="mobile-item">
                     <a href="contact-us.html">Contact Us</a>
                 </li>

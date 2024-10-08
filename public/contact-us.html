@@ -24,7 +24,7 @@
         <div class="main-navigationbar">
             <div class="container">
                 <div class="navigationbar-row d-flex align-items-center">
-                    <div class="menu-items-col">
+                    <!-- <div class="menu-items-col">
                         <div class="mobile-menu">
                             <button class="mobile-menu-button">
                                 <div class="one"></div>
@@ -116,7 +116,7 @@
                                 </div>
                             </li>
                         </ul>
-                    </div>
+                    </div> -->
                     <div class="logo-col">
                         <a href="index.html">
                             <img src="assets/images/ARANEA_WHITE.png" alt="">
@@ -176,7 +176,7 @@
                 <div class="row">
                     <div class="col-md-5 col-12"> 
                         <div class="common-banner-content">
-                            <a href="#" class="back-btn">
+                            <a href="index.php" class="back-btn">
                                 <span class="svg-ic">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="11" height="5" viewBox="0 0 11 5" fill="none">
                                         <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5791 2.28954C10.5791 2.53299 10.3818 2.73035 10.1383 2.73035L1.52698 2.73048L2.5628 3.73673C2.73742 3.90636 2.74146 4.18544 2.57183 4.36005C2.40219 4.53467 2.12312 4.53871 1.9485 4.36908L0.133482 2.60587C0.0480403 2.52287 -0.000171489 2.40882 -0.000171488 2.2897C-0.000171486 2.17058 0.0480403 2.05653 0.133482 1.97353L1.9485 0.210321C2.12312 0.0406877 2.40219 0.044729 2.57183 0.219347C2.74146 0.393966 2.73742 0.673036 2.5628 0.842669L1.52702 1.84888L10.1383 1.84875C10.3817 1.84874 10.5791 2.04609 10.5791 2.28954Z" fill="white"></path>
@@ -222,36 +222,36 @@
                             <div class="section-title">
                                 <h2>Contact <b>form</b></h2>
                             </div>
-                            <form class="contact-form">
+                            <form class="contact-form" >
                                 <div class="row">
                                     <div class="col-md-6 col-12">
                                         <div class="form-group">
                                             <label>First Name<sup aria-hidden="true">*</sup>:</label>
-                                            <input type="text" class="form-control" placeholder="John" required>
+                                            <input type="text" class="form-control" id="first-name" name="first_name"  placeholder="John" required>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-12">
                                         <div class="form-group">
                                             <label>Last Name<sup aria-hidden="true">*</sup>:</label>
-                                            <input type="text" class="form-control" placeholder="Doe" required>
+                                            <input type="text" class="form-control" id="last-name" name="last_name" placeholder="Doe" required>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-12">
                                         <div class="form-group">
                                             <label>E-mail<sup aria-hidden="true">*</sup>:</label>
-                                            <input type="email" class="form-control" placeholder="shop@company.com" required>
+                                            <input type="email" class="form-control" id="email" name="email" placeholder="shop@company.com" required>
                                         </div>
                                     </div>
                                     <div class="col-md-6 col-12">
                                         <div class="form-group">
                                             <label>Telephone<sup aria-hidden="true">*</sup>:</label>
-                                            <input type="number" class="form-control" placeholder="1234567890" required>
+                                            <input type="number" class="form-control" id="telephone" name="telephone" placeholder="1234567890" required>
                                         </div>
                                     </div>
                                     <div class="col-md-12 col-12">
                                         <div class="form-group">
                                             <label> Subject:</label>
-                                            <select class="form-control">
+                                            <select class="form-control" id="subject" name="subject">
                                                 <option value="2">Customer service</option>
                                                 <option value="1">Webmaster</option>
                                             </select>
@@ -260,7 +260,7 @@
                                     <div class="col-md-12 col-12">
                                         <div class="form-group">
                                             <label> Description:</label>
-                                            <textarea  class="form-control" name="message" placeholder="How can we help?" rows="8"></textarea>
+                                            <textarea  class="form-control" id="message" name="message" placeholder="How can we help?" rows="8"></textarea>
                                         </div>
                                     </div>
                                 </div>
@@ -274,7 +274,7 @@
                                         </div> 
                                     </div>
                                     <div class="col-lg-4 col-12"> 
-                                        <button class="btn submit-btn" type="submit">
+                                        <button class="btn submit-btn" type="submit"  id="submitButton">
                                             Send message 
                                             <svg xmlns="http://www.w3.org/2000/svg" width="35" height="14" viewBox="0 0 35 14" fill="none">
                                                 <path d="M25.0749 14L35 7L25.0805 0L29.12 6.06667H0V7.93333H29.12L25.0749 14Z"></path>
@@ -294,9 +294,9 @@
             <div class="footer-row">
                 <div class="footer-col footer-subscribe-col">
                     <div class="footer-widget">
-                        <h4>Subscribe HolidayCity and get -20% off</h4>
-                        <p>Aranea presents you Nest- HolidayCity for you and your dear ones. Holiday City
-                            introducing you the customized resorts, villas and farmhouse from your wish-list.</p>
+                        <h4>Subscribe to Our Newsletter:</h4>
+                        <p>Stay updated on the latest developments, events, and opportunities from God’s Line: The Nest Eco City.
+                        </p>
                         <form class="footer-subscribe-form">
                             <div class="input-wrapper">
                                 <input type="email" placeholder="Type your address email...">
@@ -320,28 +320,27 @@
                 </div>
                 <div class="footer-col footer-link footer-link-1">
                     <div class="footer-widget">
-                        <h4> Shop </h4>
+                        <h4> Explore Our City </h4>
                         <ul>
-                            <li><a href="order-summery.html">Order status</a></li>
-                            <li><a href="privacy-policy.html">Shipping & Delivery</a></li>
-                            <li><a href="privacy-policy.html">Returns</a></li>
-                            <li><a href="checkout.html">Payment Options</a></li>
-                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <li><a href="home.html">Home</a></li>
+                            <li><a href="about-the-project.html">About the Project</a></li>
+                            <li><a href="project-features.html">Project Features</a></li>
+                            <li><a href="sustainability.html">Sustainability</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="footer-col footer-link footer-link-2">
                     <div class="footer-widget">
-                        <h4> Account </h4>
+                        <h4> Connect With Us </h4>
                         <ul>
-                            <li><a href="product-list.html">Products</a></li>
-                            <li><a href="product.html">Categories</a></li>
-                            <li><a href="cart.html">My Cart</a></li>
-                            <li><a href="my-account.html">My Profile</a></li>
+                        <li><a href="investment-opportunities.html">Investment Opportunities</a></li>
+                            <li><a href="social-impact.html">Social Impact</a></li>
+                            <li><a href="contact-us.html">Contact Us</a></li>
+                            <!-- <li><a href="my-account.html">My Profile</a></li> -->
                         </ul>
                     </div>
                 </div>
-                <div class="footer-col footer-link footer-link-3">
+                <!-- <div class="footer-col footer-link footer-link-3">
                     <div class="footer-widget footer-social-links">
                         <h4>Share</h4>
                         <ul>
@@ -367,12 +366,13 @@
                             </li>
                         </ul>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="footer-bottom">
                 <div class="row align-items-center">
                     <div class="col-12 col-md-6">
-                        <p>© 2022 Company. All rights reserved</p>
+                        <p>© 2022 <b>God’s Line: The Nest Eco Citys</b>. All rights reserved.</p>
+                        <i>Developed by Aranea.in</i>
                     </div>
                 </div>
             </div>
@@ -611,6 +611,90 @@
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/js/swiper-bundle.min.js"></script>
     <script src="assets/js/custom.js" defer="defer"></script>
+    <script>
+        $(document).ready(function() {
+            $('#submitButton').click(function(event) {
+                // Prevent form submission for validation
+                event.preventDefault();
+                
+                // Get form field values
+                var firstName = $('#first-name').val().trim();
+                var lastName = $('#last-name').val().trim();
+                var email = $('#email').val().trim();
+                var telephone = $('#telephone').val().trim();
+                var subject = $('#subject').val().trim();
+                var message = $('#message').val();
+                var termsChecked = $('#ch1').is(':checked');
+    
+                // Validate fields
+                var isValid = true;
+                var errorMessage = '';
+    
+                // Validate first name
+                if (firstName === '') {
+                    errorMessage += 'First Name is required.\n';
+                    isValid = false;
+                }
+    
+                // Validate last name
+                if (lastName === '') {
+                    errorMessage += 'Last Name is required.\n';
+                    isValid = false;
+                }
+    
+                // Validate email using regex
+                if (!validateEmail(email)) {
+                    errorMessage += 'Please enter a valid email address.\n';
+                    isValid = false;
+                }
+    
+                // Validate telephone (at least 10 digits)
+                if (!validatePhoneNumber(telephone)) {
+                    errorMessage += 'Please enter a valid phone number (minimum 10 digits).\n';
+                    isValid = false;
+                }
+    
+                // Validate subject
+                if (subject === '') {
+                    errorMessage += 'Subject is required.\n';
+                    isValid = false;
+                }
+    
+                // Validate message
+                if (message === '') {
+                    errorMessage += 'Message is required.\n';
+                    isValid = false;
+                }
+    
+                // Validate terms and conditions checkbox
+                if (!termsChecked) {
+                    errorMessage += 'You must agree to the Terms & Conditions.\n';
+                    isValid = false;
+                }
+    
+                // If validation fails, show alert, else submit the form
+                if (!isValid) {
+                    alert(errorMessage);
+                } else {
+                    // Submit the form if all validations pass
+                    $('#contactForm').submit();
+                }
+            });
+     
+            // Email validation function
+            function validateEmail(email) {
+                var regex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+                return regex.test(email);
+            }
+    
+            // Telephone validation function (at least 10 digits)
+            function validatePhoneNumber(telephone) {
+                var regex = /^\d{10,}$/; // Minimum 10 digits
+                return regex.test(telephone);
+            }
+        });
+    </script>
+    
     <!--scripts end here-->
 </body>
 

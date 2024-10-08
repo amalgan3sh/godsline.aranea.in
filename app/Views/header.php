@@ -9,7 +9,7 @@
     <title>GODSLINE - The Nest Ecocity</title>
     <meta name="description" content="modern houses - Workdo.">
     <meta name="keywords" content="modern houses - Workdo.">
-    <link rel="shortcut icon" href="assets/images/favicon.png">
+    <link rel="shortcut icon" href="assets/images/ARANEA_WHITE.png">
     <link
         href="https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
@@ -22,7 +22,7 @@
     <!--header start here-->
     <header class="site-header header-style-one">
     <div class="main-navigationbar">
-        <div class="container">
+        <div class="container" style="max-width:1430px;">
             <div class="navigationbar-row d-flex align-items-center">
                 <div class="menu-items-col">
                     <div class="mobile-menu">
@@ -163,7 +163,7 @@
                         </li> -->
                         
                         <li class="menu-lnk">
-                            <a href="contact-us.html">Contact</a>
+                            <a href="contact_us">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -172,7 +172,7 @@
                         <img src="assets/images/ARANEA_WHITE.png" alt="Aranea Collaboration Platform Logo">
                     </a>
                 </div>
-                <ul class="menu-right d-flex justify-content-end align-items-center">
+                <ul class="menu-right d-flex justify-content-end align-items-center"  style="padding-left:0em;">
                 <li class="contact-header">
                     <a href="survey" class="dropdown">
                         <span>Options</span>

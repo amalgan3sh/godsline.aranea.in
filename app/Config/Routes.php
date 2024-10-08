@@ -36,3 +36,9 @@ $routes->get('/economic_growth', 'Home::EconomicGrowth');
 $routes->get('/strategic_partners', 'Home::StrategicPartners');
 $routes->get('/public_private_partnerships', 'Home::PublicPrivatePartnerships');
 $routes->get('/international_collaboration', 'Home::InternationalCollaboration');
+
+
+$routes->post('/submit_contact', 'Home::Contactsubmit'); 
+$routes->get('/contact_us', 'Home::ContactUs');
+
+$routes->post('/subscription/subscribe', 'Home::Subscribe');

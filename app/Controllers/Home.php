@@ -2,6 +2,8 @@
 
 namespace App\Controllers;
 use App\Models\SurveyModel;
+use App\Models\ContactModel;
+use App\Models\SubscriptionModel;
 
 class Home extends BaseController
 {
@@ -213,6 +215,69 @@ class Home extends BaseController
     public function InternationalCollaboration(): string 
     {
         return view('header') . view('international_collaboration');
+    }
+    public function ContactUs(): string 
+    {
+        return view('header') . view('contact-us');
+    }
+
+    public function Subscribe()
+    {
+        // Load the model
+        $subscriptionModel = new SubscriptionModel();
+
+        // Get the email from POST data
+        $email = $this->request->getPost('email');
+
+        // Prepare data to save
+        $data = [
+            'email' => $email,
+        ];
+
+        // Save to database
+        if ($subscriptionModel->insert($data)) {
+            return redirect()->back()->with('success', 'Thank you for subscribing!');
+        } else {
+            return redirect()->back()->with('error', 'Unable to subscribe. Please try again.');
+        }
+    }
+
+    public function Contactsubmit() {
+
+        // $contactModel = new ContactModel();
+        $json = $this->request->getJSON();
+
+        if (!$json) {
+            
+            return $this->response->setStatusCode(ResponseInterface::HTTP_BAD_REQUEST)
+                ->setJSON(['error' => 'Invalid input']);
+        }
+        
+
+        // Load the SurveyModel
+        $contactModel = new ContactModel();
+        
+
+            // Define the data array
+    $data = [
+        'first_name' => $json->first_name,
+        'last_name' => $json->last_name,
+        'email' => $json->email,
+        'phone' => $json->phone,
+        'subject' => $json->subject,
+        'message' => $json->message
+    ];
+    
+        
+
+        if ($contactModel->insert($data)) {
+            return $this->response->setJSON(['success' => true, 'message'=> 'Form submitted successfully!']);
+        } else {
+            return $this->response->setStatusCode(ResponseInterface::HTTP_INTERNAL_SERVER_ERROR)
+                ->setJSON(['success' => false, 'error' => 'Failed to save data']);
+        }
+        return view('header') . view('contact-us');
+        
     }
 
 }
